@@ -1,0 +1,976 @@
+# diagnostic_questions — barcha videolar bo'yicha (avtomatik birlashtirilgan)
+
+
+## Video 01 — Tadbirkorning tezligi — biznesning eng katta muammosi? | Alisher Isaev
+
+- **question**: Deklaratsiya xizmatini ozgina bo'lib bersangiz — shunchaki hujjatlarni rasmiylashtirishmi yoki to'liq soprovojdeniyemi? Qaysi biri bilan shug'ullanasiz? · **purpose**: Biznes modeli va xizmat segmentlarini aniqlash. · **ts**: 02:05
+- **question**: Hozir nomer nechchasizlar? · **purpose**: Maqsad va hozirgi holat orasidagi masofani o'lchash. · **ts**: 03:06
+- **question**: Sirmi yo bilmaysizmi? · **purpose**: Mehmon o'z bozor o'rnini bilmasligini ochish. · **ts**: 03:06
+- **question**: Katta bo'lish — nima degani? · **purpose**: Mavhum maqsadni metrikaga aylantirish. · **ts**: 04:07
+- **question**: Hozir nechta sizda? Nomer birda nechta? · **purpose**: Hozirgi va lider ko'rsatkichini solishtirish. · **ts**: 04:07
+- **question**: 2000 ta qilsangiz nomer bir bo'lasizmi? Nima xalaqit beryapti o'sishga? · **purpose**: O'sish to'sig'ini izlashni boshlash. · **ts**: 05:07
+- **question**: Nima sodir bo'lganda edi korxonangizda 20 barobar o'sgan bo'lar edingiz? · **purpose**: Teskari savol orqali kerakli shartlarni chiqartirish. · **ts**: 05:07
+- **question**: Yangi mijoz kelmayaptimi yoki yangi katta mijoz kelmayaptimi? · **purpose**: Mijozlarni segmentlash va eng qisqa yo'lni topish. · **ts**: 05:07
+- **question**: Qayerda yuribdi bu mijozlar, nega siz bilan ishlamayapti? · **purpose**: Yirik mijozlarni qanday tanlashini tushunish. · **ts**: 06:07
+- **question**: Mijozlar nimaga qarab deklarantni o'zgartiradi? Katta deklarantdan sizga xodim o'tsa, o'zi bilan besh-oltita mijoz olib kelgan bo'larmidi? · **purpose**: Mijoz jalb qilish kanallarini aniqlash. · **ts**: 06:07
+- **question**: Agar BFM Group sizning mijozingiz ekanini bozorda hamma bilganda edi, boshqalar ham kelarmidi? · **purpose**: Ijtimoiy isbot g'oyasini mehmonga o'zi tasdiqlatish. · **ts**: 07:07
+- **question**: Siz ishongan mashhur odam «men Alisher akada o'qidim, zo'r ekan» desa, ishonarmidingiz? · **purpose**: Teskari analogiya orqali tavsiya kuchini ko'rsatish. · **ts**: 08:07
+- **question**: Hamma biladimi siz ularga qilib berishingizni? Nimaga bekitib qo'yapsiz? · **purpose**: Yashirilgan ijtimoiy isbotni ochish. · **ts**: 09:07
+- **question**: Sotuv bo'limi yo'qmi yoki sotuv bo'limi kattalarga chiqishni bilmaydimi? · **purpose**: Sotuv muammosining tabiatini aniqlash. · **ts**: 10:08
+- **question**: Yaxshi sotuv bo'limini qo'yganingizda edi, qancha o'sardingiz? · **purpose**: Mehmonning o'z tasavvuridagi cheklovni ko'rsatish (+20% vs x20). · **ts**: 10:08
+- **question**: Nimaga birovga berolmayapsiz? Qo'rqasizmi? Nima bor? · **purpose**: Delegatsiya to'sig'ini ochiq aytdirish. · **ts**: 11:09
+- **question**: Ya'ni sizsiz yer aylanmaydi? · **purpose**: Hazil orqali egaga bog'liqlikni tan oldirish. · **ts**: 12:09
+- **question**: Bu yerda kimni qo'yganingizda edi o'zingizning o'rningizga? · **purpose**: O'rinbosar haqida o'ylashga majburlash. · **ts**: 12:09
+- **question**: Bu tempda yoshingiz o'tgan sari ishlash joningizga tegib ketadi deb o'ylaysizmi? · **purpose**: Uzoq muddatli barqarorlikni o'ylatish. · **ts**: 12:09
+- **question**: Nima kerak sizga logistika? · **purpose**: Fokusdan chetlashishni to'xtatish. · **ts**: 13:10
+- **question**: Shu ishingizni standart qilishingiz mumkinmi? Qog'ozga tushirib standartlashtirishingiz mumkinmi? Nimadan iborat ishingiz? · **purpose**: Delegatsiyani jarayon xaritasi orqali boshlash. · **ts**: 13:10
+- **question**: Necha soatda bo'lishi kerak deklaratsiya to'ldirish? Nima bilan o'lchanadi? · **purpose**: Har bosqich uchun vaqt normasini o'rnatish. · **ts**: 14:10
+- **question**: Qayerda xodimlar sizsiz sekinlashtirib yuboradi? · **purpose**: Jarayondagi zaif/risk nuqtani topish. · **ts**: 16:11
+- **question**: Bu yerdagi odam qovun tushirmaslik uchun qanaqa odam bo'lishi kerak? · **purpose**: Risk nuqtasi uchun odam profilini aniqlash. · **ts**: 18:11
+- **question**: Shustriy bolalar bormi bozorda? Yo faqat siz shustriymisiz? · **purpose**: Odamlar mavjudligini tan oldirish. · **ts**: 19:11
+- **question**: Agar shustriyni komandangizga ola olganingizda edi, shu qismini unga berib yuborgan bo'larmidingiz? · **purpose**: Delegatsiyaga tayyorlikni tekshirish. · **ts**: 19:11
+- **question**: Qayerdan shuncha tanish topasiz? Borib roddomdan boshlaysizmi? · **purpose**: Faqat tanishlarni olish strategiyasining masshtabsizligini ko'rsatish. · **ts**: 20:11
+- **question**: Mana shu bolalarni, begonani olish uchun nima xalaqit beryapti? · **purpose**: Ildizni qo'rquvga tushirish. · **ts**: 20:11
+- **question**: Qo'rquv qayerdan paydo bo'ldi? · **purpose**: Qo'rquvning manbasini qidirish. · **ts**: 20:11
+- **question**: Nima qilsangiz ishongan bo'lardingiz? · **purpose**: Ishonch shartlarini (test va h.k.) aniqlash. · **ts**: 21:12
+- **question**: Qancha vaqtingiz ketyapti shu yerda? Agar shu vaqtingiz bo'shaganda edi, tizimlashtirishga vaqtingiz bo'larmidi? · **purpose**: Delegatsiya ehtiyojini mehmonning o'zi tan olishiga olib kelish. · **ts**: 22:12
+- **question**: Nima bo'lganda edi qo'rquvingiz bo'lmas edi, yoki nima sabab bo'lishi mumkin qo'rquvga? · **purpose**: Qo'rquvni chuqurlashtirish. · **ts**: 23:12
+- **question**: Sizning sohangizda tizim qurish bo'yicha chempion korxona bormi? Ichidan tanishib ko'ra olasizmi? · **purpose**: Tajribali odam va modelni qayerdan olishni aniqlash. · **ts**: 29:14
+- **question**: Qachondir u yerda ishlab ketgan top-menejerlarni ishga olsangiz bo'ladimi? · **purpose**: Yollash manbasini belgilash. · **ts**: 30:14
+- **question**: Ikki xil odam bor — «qila olaman» va «qilganman». Qaysi biri sizga kerak? · **purpose**: Yollash mezonini mehmonga o'zi tanlatish. · **ts**: 31:14
+- **question**: Ikkala holatdan qaysi birida menda ehtimol ko'proq — o'zim o'rganibmi yoki chempionni CEO qilibmi? · **purpose**: Fikr tajribasi orqali «oldin kim» tamoyilini tushuntirish. · **ts**: 32:15
+- **question**: x20 ga o'tishga ko'z yetadimi? · **purpose**: Rejaga ishonchni tekshirish. · **ts**: 34:15
+- **question**: Nima qilasiz? Qanaqa muddatda? Qilmasangiz nima jazo? Qanday rag'batlantirasiz? · **purpose**: Majburiyat va javobgarlikni o'rnatish. · **ts**: 36:16
+- **question**: Bo'lsa nima, bo'lmasa nima — nima va'da bersak bo'ladi? · **purpose**: Aniq va'da va jazo/rag'batni belgilash. · **ts**: 41:18
+
+## Video 02 — $100,000 dan $500,000 ga o'tish: Katta mijozlar oldidagi qo'rquvni qanday yengish kerak?
+
+- **question**: Savdoni yutqazib qo'yasizlar desak to'g'ri bo'ladimi? · **purpose**: Mehmon zaprosini qayta formulirovka qilib tasdiqlash · **ts**: 02:02
+- **question**: Bu yerda qo'rquv desak bo'ladimi — katta mijoz oldiga chiqish qo'rquvi? · **purpose**: Simptomni emotsional ildizga bog'lash · **ts**: 02:02
+- **question**: Sizda qaysi biri — tipovoy yoki individual razrabotka? · **purpose**: Biznes modelini aniqlash · **ts**: 03:02
+- **question**: Qaysi mijozga bormayapsiz? Bittasini ayting. · **purpose**: Abstrakt muammoni konkret misolga tushirish · **ts**: 04:02
+- **question**: Ularga borish kerakmi? Qaror qiladigan top-menejerga kirishga nima qo'rquvingiz bor? · **purpose**: To'g'ri qaror qabul qiluvchini aniqlash · **ts**: 04:02
+- **question**: Ko'rishsam gaplasha olaman degan muammo bormi yoki kim orqali chiqolmayapman degan muammo? · **purpose**: Kirish va muloqot muammolarini ajratish · **ts**: 05:02
+- **question**: Ya'ni muammo u odamlarda emas — sizning vaqtingiz yo'q ularga? · **purpose**: Mehmonning o'z fokussizligini ko'rsatish · **ts**: 05:02
+- **question**: Nimaga rozi bo'lishi kerak? Qaysi og'rig'iga yechim bera olasiz? · **purpose**: Taklifning qiymatini tekshirish · **ts**: 06:03
+- **question**: Men o'sha Malikman. Nimaga siz bilan uchrashishim kerak? Kirdingiz ham — nima deysiz? · **purpose**: Rol o'yini orqali pitch'ning bo'shligini ochish · **ts**: 07:03
+- **question**: Kirishdan oldin o'rganishning nima problemasi bor? AI'dan so'rasa bo'ladimi? Gipotezalaringiz bormi? · **purpose**: Tayyorgarlik yo'qligini ko'rsatish · **ts**: 08:04
+- **question**: Qaysi bo'lim? · **purpose**: Umumiy gapni konkretga aylantirish · **ts**: 08:04
+- **question**: Developermisiz, genpodryadchikmisiz, subpodryadchikmisiz? · **purpose**: Qiymat zanjiridagi o'rnini aniqlash · **ts**: 15:08
+- **question**: Oboy sotsam, kim bilan ishlaganim yaxshi — remont qiladigan Javohir bilanmi yoki prorab bilanmi? · **purpose**: O'rtadagi bo'g'in mantiqini o'zi topishga undash · **ts**: 17:08
+- **question**: Sizning prorabingiz kim? · **purpose**: Mehmonning sotuv kanalini aniqlash · **ts**: 18:08
+- **question**: O'zbekistonda nechta 1C, Bitrix yoki SAP qo'yadigan kompaniya bor? Nechtasini bilasiz? · **purpose**: Yangi segment hajmi va kirish nuqtasini baholash · **ts**: 19:09
+- **question**: Bunday kompaniyani subpodryadga olish qiziq bo'larmidi? (integratorga) · **purpose**: Gipotezani mijoz bilan tekshirish · **ts**: 21:13
+- **question**: Sababini bilmoqchiman — sifatmi? Sifatli qilib, kallasi bilan javob bersa, ko'rib chiqarmiding? · **purpose**: Rad etish sababini aniqlab, shartlarni topish · **ts**: 23:13
+- **question**: Qaysi nishada chempion bo'la olasizlar? Qaysi sohani yaxshiroq tushuna olasiz? · **purpose**: Nisha tanlash · **ts**: 25:13
+- **question**: Sotuvchi qo'ymoqchisiz — o'quv markaziga qo'ydingizmi, B2B biznesga qo'ydingizmi? · **purpose**: Sohalar farqini analogiya bilan isbotlash · **ts**: 26:13
+- **question**: Korxona ichini tushunmasdan qanday transformatsiya qilmoqchisiz? · **purpose**: Sohaviy bilim zarurligini ko'rsatish · **ts**: 28:14
+- **question**: Nima xulosa? · **purpose**: Mehmonni o'zi xulosa chiqarishga undash · **ts**: 30:14
+- **question**: Nima olib chiqdingiz? Hech bo'lmasa bitta narsa. · **purpose**: Deklaratsiyaga olib kelish · **ts**: 31:14
+- **question**: Qaysi stolga o'tirasiz? · **purpose**: Katta bozor tanlash mantiqini o'zi topishga undash · **ts**: 34:16
+- **question**: Jazo nima? Necha oy? · **purpose**: Majburiyatni sezilarli qilish · **ts**: 38:17
+
+## Video 03 — Savdo tushib ketganida biznes qaysi raqamlar bilan qutqariladi? | Alisher Isaev
+
+- **question**: Siz ham nasiya savdomisiz? · **purpose**: Biznes modelini (naqd/nasiya ulushi) tez aniqlash · **ts**: 04:04
+- **question**: Nimalarga qarashimiz kerak? Nimani analiz qilamiz? (zalga) · **purpose**: Auditoriyani jalb qilish, birinchi diagnostik yo'nalishni topish · **ts**: 04:04
+- **question**: Ya'ni manba qayerda? Telegram kanal asosiy olib keladigan? · **purpose**: Trafikning asosiy manbasini aniqlash · **ts**: 05:04
+- **question**: Nechta mijoz bor hozir? CRM bormi? Sotuv bo'limi bormi? · **purpose**: Ma'lumot va sotuv infratuzilmasining holatini bilish · **ts**: 06:05
+- **question**: 100 ta klient kelgan bo'lsa, 2025-da nechtasi Telegramdan, nechtasi Instagramdan kelgan — bilasizmi? 26-da nima kamayib ketdi? · **purpose**: Pasayishni manbalar bo'yicha ajratish · **ts**: 07:06
+- **question**: 2 milliard nimadan iborat? Nech kishi kiradi? Qanchasi xarid qiladi? O'rtacha chek qancha? · **purpose**: Savdoni dekompozitsiya qilish · **ts**: 12:09
+- **question**: Nima tushib ketdi — kirayotgan odamlar soni, xarid yoki o'rtacha chek? · **purpose**: Qaysi bo'g'in pasayganini aniqlash · **ts**: 13:09
+- **question**: Nimaga 85 ta bo'ldi deb o'ylaysiz? Nimaga odam kamroq kirishni boshladi? · **purpose**: Trafik pasayishi gipotezasini olish (keyin tekshirish uchun) · **ts**: 15:10
+- **question**: Qaysi uch xil mijoz bilan gaplashishimiz kerak? · **purpose**: CustDev uchun to'g'ri respondentlarni tanlash · **ts**: 16:10
+- **question**: Mijozingizni narxini o'lchaysizmi? Bitta mijoz necha pulga tushyapti? · **purpose**: CAC bilinmasligini ochish · **ts**: 18:11
+- **question**: 20 millionlik reklamangizdan qancha odam keladi? O'lchaysizmi? · **purpose**: CPL ni hisoblash uchun ma'lumot olish · **ts**: 18:11
+- **question**: 2,5 million so'm savdodan foydangiz qancha? Marja qancha? · **purpose**: Bitta mijozdan foydani hisoblab, CAC bilan solishtirish · **ts**: 20:12
+- **question**: Ertaga mijoz narxi 500 ming bo'lsa, 450 ming topib keladigan mijozni olib kelamizmi yo'qmi? · **purpose**: Qayta sotuv mantiqini ochish · **ts**: 22:12
+- **question**: 20% dan 17% ga — nima o'zgardi? · **purpose**: Konversiya pasayishi sababini so'rash · **ts**: 23:12
+- **question**: Narxlarni raqobatchilar bilan qanchada bir solishtirasiz? Necha foiz qimmat chiqyapsiz? · **purpose**: «Narx qimmat» gipotezasini raqam bilan tekshirish · **ts**: 24:12
+- **question**: Sizda KPI qanaqa? Tabaqalashganmi? · **purpose**: Motivatsiya tizimini tushunish · **ts**: 25:14
+- **question**: 17 ni 25% qilish uchun nima qilish kerak? Tabaqalash bunga qanday yordam beradi? · **purpose**: Taklif qilingan yechim muammoga mos kelishini tekshirish · **ts**: 25:14
+- **question**: Bu tahlilni xodimlarga ko'rsatasizmi? Xodimingiz qimmat emasligiga ishonadimi? · **purpose**: Sotuvchilarning ishonchi va axborotlanganligini tekshirish · **ts**: 26:14
+- **question**: Bilmayaptimi? Xohlamayaptimi? · **purpose**: Xodim muammosini ikki turga ajratish · **ts**: 28:20
+- **question**: Attestatsiya bormi? Kim audit qilyapti? Auditning natijalarini qayerdan ko'ramiz? · **purpose**: O'qitish tizimi sifatini tekshirish · **ts**: 28:20
+- **question**: Nima sababdan sotuvchilar yomonroq sota boshladi deb o'ylaysiz? Unaqa emas desangiz — teskarisini ayting. (xodimga) · **purpose**: Mas'ul xodimdan ochiq, yo'naltirilmagan javob olish · **ts**: 30:23
+- **question**: Qaysi instrument bersa ishlashni boshlaydi? Bozorda qanday talab borki, xo'jayinlar bermayapti? · **purpose**: «Instrument yo'q» sababini aniq talabga aylantirish · **ts**: 31:23
+- **question**: Siz qayerdan bilasiz sotuv mahoratlarini? Qanchalik tajribangiz bor? · **purpose**: O'qituvchining malakasini tekshirish · **ts**: 32:23
+- **question**: Agar o'qitgan bo'lsangiz va ta'sir qilmasa — endi nimani o'zgartirsangiz ta'sir qila boshlaydi? · **purpose**: O'qitishdagi o'zgarishning mantiqini va isbotini so'rash · **ts**: 33:24
+- **question**: Ko'proq javob bersak konversiya o'sadimi? · **purpose**: Taklif qilingan chora bilan natija orasidagi bog'liqlikni tekshirish · **ts**: 34:24
+- **question**: Hozirgi suhbatga ishondingizmi o'zingiz? · **purpose**: Egani xodim yechimini tanqidiy baholashga majburlash · **ts**: 35:24
+- **question**: O'rtacha chek nimaga tushib ketdi deb o'ylaysiz? · **purpose**: Chek pasayishining sababini topish · **ts**: 40:27
+- **question**: Ya'ni qadriyat nuqtai nazardan ongli ravishda tushiryapsiz? Mahsulot soni tushmaganmi? · **purpose**: Pasayish ongli qaror ekanini tasdiqlash va dastaklar ro'yxatidan chiqarish · **ts**: 41:27
+- **question**: Konversiyani kamida 20–25% qilishimiz mumkinmi? Nima deb o'ylaysiz? · **purpose**: Real maqsadni mehmon bilan birga belgilash · **ts**: 41:27
+- **question**: Qanaqa rezume sifatida o'zingiz bir nima olganingizni ayting. · **purpose**: Mehmonni o'z xulosasini shakllantirishga majburlash · **ts**: 43:28
+
+## Video 04 — Katta maosh oladigan xodimlar nega o'sishdan to'xtaydi? | Alisher Isaev
+
+- **question**: Zapros nima? · **purpose**: Uzun muammolar ro'yxatidan bitta aniq so'rovni ajratish. · **ts**: 02:03
+- **question**: Hozir qayeringiz — onkologiya, jigar, teri — qaysi bittasini olaylik? · **purpose**: Bitta yo'nalish/muammoga fokuslash. · **ts**: 03:03
+- **question**: Endi o'zinglar nima deb o'ylaysizlar? Qanaqadir baribir xulosalarga kelgansizlar. Nimaga to'xtab qolyapti deysizlar? · **purpose**: Mehmonning o'z gipotezasini chiqartirish. · **ts**: 03:03
+- **question**: Ya'ni men to'g'ri tushundimmi — 20–30 million oyligiga chiqqandan keyin «bizga yetadi» degan tushunchami yoki boshqa tushunchami? · **purpose**: Muammoni aniq formulaga keltirish va tasdiqlatish. · **ts**: 04:04
+- **question**: Siz diagnozingizni ayting — Z avlod bo'lgani uchunmi yoki boshqa? · **purpose**: Mehmonning tushuntirishini ochiq aytdirish. · **ts**: 07:04
+- **question**: Yana boshqa sabab nima deb o'ylaysiz? · **purpose**: Qulay tashqi tushuntirishdan chuqurroq sababga o'tish. · **ts**: 07:04
+- **question**: Nimaga KPI uchun ishlash kerak? Boshqa nima sabab borki sizda ishlash kerak? · **purpose**: Rag'bat tizimining asosini so'roq qilish. · **ts**: 08:05
+- **question**: Mana men xodim bo'lsam, menga qanaqa motivatsiya berasiz? Ko'proq ishlagan ko'proq pul topasan degan motivatsiyami? Asosiy motivatsiya shumi? · **purpose**: Motivatsiya faqat moddiy ekanini ko'rsatish. · **ts**: 09:06
+- **question**: Nima maqsad qo'yish? (Xodimlarga qanday maqsad qo'yasiz?) · **purpose**: Xodim maqsadlarining tabiatini (moddiy) ochish. · **ts**: 09:06
+- **question**: Moddiyat xodim uchun nechanchi o'rinda deb o'ylaysizlar? · **purpose**: Auditoriyani jalb qilib, moddiyatning o'rnini muhokama qilish. · **ts**: 10:07
+- **question**: Nimaga ishdan bo'shatasizlar? · **purpose**: Kompaniya madaniyati va chegaralarini o'rganish. · **ts**: 16:08
+- **question**: Oliy maqsad nima? · **purpose**: Kompaniya missiyasini aniqlash. · **ts**: 17:08
+- **question**: Qisqacha, bitta gap bilan oliy maqsad nima? · **purpose**: Missiyani aniq bitta jumlaga keltirish. · **ts**: 18:08
+- **question**: Nima og'riqdan kelib chiqqan bu biznes? · **purpose**: Missiyaning shaxsiy ildizini topish. · **ts**: 19:08
+- **question**: Qanchalik har bitta xodim haqiqatda mana shu oliy maqsad deb kelgan va oliy maqsad deb ishlayapti deb o'ylaysizlar? · **purpose**: Missiya va xodim xulq-atvori orasidagi farqni o'lchash. · **ts**: 19:08
+- **question**: Gapirasiz. Lekin shu bilan yashaydimi? · **purpose**: E'lon qilingan va yashalgan qadriyat farqini ochish. · **ts**: 19:08
+- **question**: Agar xodimlaringiz oliy maqsad bo'yicha ishlamasa, nimaga kerak bu oliy maqsad? Boshida filtr noto'g'ri deb o'ylaysizmi? · **purpose**: Yollash filtriga yo'naltirish. · **ts**: 20:09
+- **question**: Agar shu oliy maqsad ichidan yonganda edi, nima o'zgarishlarga olib kelishi mumkin edi? · **purpose**: Mehmonni missiyaga asoslangan KPI g'oyasiga olib kelish. · **ts**: 21:09
+- **question**: (Operatorga) Nima uchun ishlayapsiz? Nima uchun bu korxonada ishlayapsiz? To'g'risini ayting, faqat aldash yo'q. · **purpose**: Front xodimning asl motivini bevosita aniqlash. · **ts**: 22:11
+- **question**: (Operatorga) Nimadan qo'rqasiz? Yaxshi ishlamasam, meni haydab yuborishlari mumkin degan qo'rquv bormi? · **purpose**: Motivatsiyada qo'rquvning rolini tekshirish. · **ts**: 23:11
+- **question**: (Operatorga) Xuddi shu kollektiv boshqa biznesga (otel, kiyim-kechak) o'tsa, noldan boshlansa ham o'tarmidingiz? · **purpose**: Xodimni missiya emas, kollektiv ushlab turganini isbotlash (lakmus-test). · **ts**: 24:11
+- **question**: Qani, nima eshityapmiz hozir? Fokus nimada? · **purpose**: Mehmonni xulosaga o'zi kelishga majburlash. · **ts**: 25:12
+- **question**: Qancha pul topsangiz o'zingizni boyvachcha hisoblaysiz? Bitta raqam kerak. · **purpose**: Har kimning ichki «yetarli» chegarasini ko'rsatish. · **ts**: 29:13
+- **question**: Miyani xavfli emasligini ko'rsatish uchun nima qilish kerak? · **purpose**: Muhitga botish yechimiga olib kelish. · **ts**: 33:14
+- **question**: Xodimingiz 20–30 million topyapti. Buning hayoti qanaqa? Qayerda yashaydi? Qaysi rayonda? · **purpose**: Xodimning hayot darajasi va miya chegarasini bog'lash. · **ts**: 34:14
+- **question**: Turkiyada qaysi rayonda yashaydi? Istanbulga borgan necha pullik uyda yashadi? · **purpose**: Rag'bat safari miyani kengaytiradimi yoki yo'qmi — tekshirish. · **ts**: 36:15
+- **question**: 100 million topishni xohlasangiz, Turkiyada necha pullik gostinitsada turadi bunaqa odam? · **purpose**: Xohlangan daraja va berilgan muhit orasidagi nomuvofiqlikni ko'rsatish. · **ts**: 36:15
+
+## Video 05 — Kelajakda kimlar bozorda qoladi? | Alisher Isaev
+
+- **question**: Nima sotasiz? Qaysi mahsulot? · **purpose**: Biznes kontekstini aniqlash · **ts**: 01:01
+- **question**: Ikkita zapros — operatsionkadan chiqish va masshtablash. To'g'ri tushundimmi? · **purpose**: So'rovlarni nomlab, alohida yuritish · **ts**: 03:01
+- **question**: Operatsionkadan chiqishda nima muammo ko'ryapsiz? Nimaga duch kelyapsiz? Nimadan qiynalyapsiz? · **purpose**: Mehmon ko'rayotgan to'siqni olish · **ts**: 03:01
+- **question**: Mohiyatda, operativlikdan chiqmoqchi bo'lsangiz nima ushlab turibdi? · **purpose**: Muammoning yadrosiga qayta formulirovka · **ts**: 04:01
+- **question**: Mas'uliyatli inson topa olmayapsizmi — nima problem bo'lyapti? · **purpose**: «Mas'uliyatni o'tkazish»dan «odam topish»ga ko'chirish · **ts**: 05:01
+- **question**: Kadr to'g'risida gap ketyaptimi yoki kadrni nazorat qilish to'g'risida? · **purpose**: Ikki gipotezani ajratish · **ts**: 05:01
+- **question**: Pul to'lovlariga kim javob beradi? Boshqaruvchimi, moliya direktorimi, moliya menejeri bormi? · **purpose**: Mas'ul rol mavjudligini tekshirish · **ts**: 06:02
+- **question**: Farqi nimada? Kichkinaga topshirdingiz, kattaga topshira olmayapsiz. · **purpose**: Qarama-qarshilikni ochish · **ts**: 06:02
+- **question**: Muammo sizdami yo undami? · **purpose**: Mehmonni muammo o'zida ekanini tan olishga olib kelish · **ts**: 06:02
+- **question**: Demak, kadr bor yoki yo'q? · **purpose**: Kadr gipotezasini yopish · **ts**: 07:06
+- **question**: Bularda yagona nazorat qilish tizimi bormi yoki shunchaki u bolaga ishonib qo'ydingizmi? · **purpose**: Tizim gipotezasini tekshirish · **ts**: 07:06
+- **question**: Hamma puli bitta joydan o'tadimi yoki 10 ta joydan? · **purpose**: Moliyaviy risk va nazorat arxitekturasini tushunish · **ts**: 07:06
+- **question**: Agar tizim bo'lsa, kichkina summa bilan katta summaning farqi nima? · **purpose**: Tizim bor bo'lsa to'siq boshqa joyda ekanini ko'rsatish · **ts**: 08:06
+- **question**: Nimaga ishonolmayapsiz birovga? Nimani yaxshi ko'rasiz? · **purpose**: Emotsional sababni ochish · **ts**: 09:07
+- **question**: Sizsiz yurmaydimi bu biznes? · **purpose**: Biznes allaqachon asoschisiz ishlashini ko'rsatish · **ts**: 10:07
+- **question**: Siz boshliq bo'lmoqchimisiz yoki boy bo'lmoqchimisiz? Qaror qabul qilib mazza qilib uyga borasizmi? · **purpose**: Ego/hokimiyat motivatsiyasini tekshirish · **ts**: 10:07
+- **question**: Chiqib ketdingiz deylik — 5 oy Vetnamda o'tirasiz. Nima yetishmay qoladi? Qayerda? · **purpose**: Asoschiga bog'liq aniq jarayonni topish · **ts**: 11:08
+- **question**: Har safar pul to'layotganingizda ruxsat berasizmi? Nima asosida berasiz yoki bermaysiz? · **purpose**: Qaror mezonlarini chiqarish · **ts**: 11:08
+- **question**: Shu aytayotgan gapingizni formulaga tushira olasizmi? Qancha vaqt ketadi — bir soatmi? · **purpose**: Algoritmni formalizatsiya qilishga majburiyat va muddat olish · **ts**: 12:09
+- **question**: Endi nima xalaqit beryapti? Boshqa sizni ushlab turgan nima bor? · **purpose**: Qolgan to'siqlarni tekshirish · **ts**: 12:09
+- **question**: To'g'rimi? Yechimmi? · **purpose**: Yechimni mehmonning o'zi tasdiqlashi · **ts**: 13:10
+- **question**: Nimaga hali ham qilmadingiz? Nima ushlab turibdi? · **purpose**: Masshtablash to'sig'ini aniqlash · **ts**: 13:10
+- **question**: Deylik Farg'onada ochmoqchisiz. Nima halaqit berib turibdi? Nima bo'lsa ocha olasiz? · **purpose**: Abstraktni bitta konkret misolga tushirish · **ts**: 14:10
+- **question**: Omborga yana nima shart? · **purpose**: Talablar ro'yxatini mehmon bilan birga tuzish · **ts**: 15:10
+- **question**: Shunaqa odam topsak, ishimiz hal bo'ladimi? · **purpose**: Yechim gipotezasini tasdiqlatish · **ts**: 16:11
+- **question**: Qayerdan topamiz? Manba nima? Tanish-bilishmi, saytlarmi, rekruting agentliklarmi? · **purpose**: Rekruting manbasini tekshirish · **ts**: 17:11
+- **question**: Coca-Cola yoki Nestle talabiga javob beradigan distribyutorlar bormi? Ularning mutaxassisini topsak bittada butun respublikani ura olasizmi? · **purpose**: Qisqa yo'lni mehmonning o'zi ko'rishiga olib kelish · **ts**: 18:11
+- **question**: Qanaqa kompaniyalar bor? Keling, ro'yxat qilaylik. · **purpose**: Harakat rejasini konkret ro'yxatga aylantirish · **ts**: 19:12
+- **question**: O'sha nimani tushunib oldingiz? Oson ekanmi? Qiyin joyi yo'qmi asli tegi? · **purpose**: Rezyumeni aniqlashtirish va ishonchni tekshirish · **ts**: 21:13
+
+## Video 06 — Eksportga chiqishda asosiy to'siq nima? | Alisher Isaev
+
+- **question**: Hozir ishlab chiqarishingizni quvvati qancha? Necha tonna chiqarasizlar? Tonnada, nimada hisoblaysizlar? · **purpose**: Abstrakt strategik savolni o'lchov birligi va raqamga tushirish. · **ts**: 04:01
+- **question**: Necha foizini ishlatyapsizlar? · **purpose**: Resurs cheklovi bor-yo'qligini aniqlash; «yo u, yo bu» dilemmasining soxtaligini ko'rsatish. · **ts**: 04:01
+- **question**: Ichki bozorga ham sotsangiz ham nima problema bo'ladi? · **purpose**: Mehmon qo'rqayotgan xavfning haqiqiyligini tekshirish. · **ts**: 05:01
+- **question**: Bir oyda necha tonna sotyapsiz? · **purpose**: Haqiqiy sotuv hajmini aniqlash. · **ts**: 05:01
+- **question**: 60 tonnadan qanchasi ichki bozor, qanchasi tashqi bozor? · **purpose**: Daromad tuzilmasini ko'rish. · **ts**: 06:02
+- **question**: Qayerda ko'proq foyda topyapsiz? · **purpose**: Marja qayerda ekanini mehmonning o'z og'zidan chiqartirish. · **ts**: 06:02
+- **question**: Nimaga eksportga foydali chiqa olmayapsiz? · **purpose**: Ha/yo'q savolini to'siqni izlash savoliga aylantirish. · **ts**: 07:02
+- **question**: Misol uchun bitta bozor olaylik, qaysi eksport bozor to'g'risida gap ketyapti? · **purpose**: Umumiy «eksport»dan aniq bozorga tushish. · **ts**: 07:02
+- **question**: Iroqqa sotish uchun siz O'zbekistondan o'tirib sotishingiz shartmi? Yoki Eronda, Turkiyada yoki Rossiyada STM qilsangiz ham bo'ladimi? · **purpose**: O'z zavodiga bog'lanib qolgan cheklovchi taxminni sindirish. · **ts**: 07:02
+- **question**: Nimaga u yerda STM qilib, o'sha yerdan Iroqqa sotmayapsiz? · **purpose**: Haqiqiy motivni (ichki quvvatni yuklash istagi) ochish va maqsadlar aralashganini ko'rsatish. · **ts**: 08:02
+- **question**: Nima qilib 100 tonnaga olib chiqamiz? · **purpose**: Ichki bozor o'sishining to'sig'ini aniqlash. · **ts**: 12:04
+- **question**: Ya'ni nasiya muammosi hal bo'lganda edi (100 tonnaga chiqarmidingiz)? · **purpose**: Ildiz sababni tasdiqlash. · **ts**: 12:04
+- **question**: Agentlar bilan ishlaysizmi yoki distribyutorlar bilan ishlaysizmi? · **purpose**: Savdo zanjiri tuzilmasini aniqlash. · **ts**: 12:04
+- **question**: Distribyutor orqasiga aralashmaysiz, to'g'rimi? · **purpose**: Zavod zanjirning qaysi bo'g'inigacha boshqaruvni ushlaganini bilish. · **ts**: 13:04
+- **question**: Bularning (agentlarning) KPI nimadan iborat? Yana nimaga KPI qo'yasiz? Faqat hajmga ham? · **purpose**: Rag'bat tizimi muammoga (nasiyaga) qaratilmaganini ochish. · **ts**: 13:04
+- **question**: Distribyutorga qanaqa KPI berasiz? KPI bormi yoki prosta mol oladi, narxni ustiga qo'yib sotaveradimi? · **purpose**: Distribyutor bilan munosabat mexanikasini ko'rish. · **ts**: 14:04
+- **question**: Bitta mahsulotingizni oling, narxini ayting. Sizdan chiqadigan narx? Distribyutor necha puldan sotadi? Narxni siz belgilaysizmi? · **purpose**: Unit darajasida marja va narx nazoratini tushunish. · **ts**: 14:04
+- **question**: Kattaroq obyom bo'lsa, skidka qilib berasizmi yo nasiya berasiz? Hajmdan necha foizdan necha foizgacha? · **purpose**: Hozirgi rag'bat shkalasini to'liq aniqlash. · **ts**: 15:04
+- **question**: Nimaga sizga pul kerak bo'lib turib, pul so'ramayapsiz-da, hajm so'rayapsiz? · **purpose**: Muammo va rag'bat o'rtasidagi nomuvofiqlikni yuzaga chiqarish. · **ts**: 16:05
+- **question**: Sizning distribyutoringiz boshqa konkurentingizni ham sotadimi? Nimaga rozi bo'lyapsiz? Distribyutor eksklyuziv bo'lmaydimi? · **purpose**: Distribyutor darajasidagi raqobatni va eksklyuzivlik imkoniyatini tekshirish. · **ts**: 16:05
+- **question**: Konkurentingiz ham nasiyaga beradimi? U ham hajmga qo'yadimi? U nasiyaga qo'ymaydimi? Demak, uni ham pulini sizga tortish mumkinmi? · **purpose**: Mehmonni raqobatchi pulini o'ziga tortish g'oyasiga o'zi olib kelish. · **ts**: 18:05
+- **question**: Qilsa bo'ladimi? ... Nega qilmaysiz? · **purpose**: Kelishuvdan keyin harakatsizlik sababini so'roq qilish. · **ts**: 19:05
+- **question**: Rossiyaga nimaga O'zbekistonda turib sota olmayapmiz? Narx to'g'ri kelmayaptimi? · **purpose**: Eksport to'sig'ini aniqlash. · **ts**: 26:29
+- **question**: Rossiya bozorida chempionlar kim? Qaysi davlatning mahsuloti eng ko'p sotilyapti? · **purpose**: Qayerda ishlab chiqarish kerakligini chempion orqali aniqlash. · **ts**: 26:29
+- **question**: Qaysi biri arzonroq — dengiz qazib o'tishmi yoki o'sha yerda ishlab chiqarishmi? · **purpose**: Kinoya orqali muqobil yo'lning absurdligini ko'rsatish. · **ts**: 27:30
+- **question**: Afrikada qaysi pechenyelar zo'r sotilyapti? · **purpose**: Bozor chempioni orqali ishlab chiqarish joyini tanlash. · **ts**: 28:31
+- **question**: Shu do'konning (mijozning) narxini chiqarish qiyinmi? · **purpose**: CAC'ni to'g'ri mijozga qayta yo'naltirish. · **ts**: 30:32
+- **question**: Kimdan ruxsat olish kerak? · **purpose**: O'ylab topilgan to'siqni sindirish. · **ts**: 32:32
+
+## Video 07 — Ishlab chiqaruvchilarning million dollarlik xatosi | Alisher Isaev
+
+- **question**: O'zingizni tanishtirasiz. Qaysi biznesni ko'ramiz? · **purpose**: Kontekst va fokus tanlash · **ts**: 01:00
+- **question**: Zapros qilsak? · **purpose**: Asosiy so'rovni olish · **ts**: 01:00
+- **question**: Brend nomi nima? · **purpose**: Kontekst · **ts**: 02:01
+- **question**: Kiyim obyomini oshirmoqchimizmi yoki qaysi siklda problema? Shveykami? · **purpose**: Muammoni qiymat zanjirida joylashtirish · **ts**: 02:01
+- **question**: Shveykada muammo bormi? Pryajada? To'quvda? · **purpose**: Bosqichma-bosqich bottleneckni topish · **ts**: 03:02
+- **question**: 150 tonna o'zingizni ichki shveykangizga ketadimi yoki tashqariga sotasiz? Qanchasini? · **purpose**: Ichki va tashqi hajm taqsimoti · **ts**: 04:03
+- **question**: Ivanovadan qaysi mijoz oladi? · **purpose**: Mijoz turini aniqlash · **ts**: 05:03
+- **question**: Ivanovadagi savdo bo'limini gapirib bering. Nechta odam ishlaydi? Nechta sotuvchi? · **purpose**: Sotuv resursini aniqlash · **ts**: 06:03
+- **question**: Ikkita sotuvchi qanaqa qilib sotadi? Eshikni taqillatib yuradimi yoki telefonga javob berib o'tiradimi? · **purpose**: Faol yoki passiv sotuvni aniqlash · **ts**: 06:03
+- **question**: Nimaga sotishmayapti? Sotishni bilishmaydimi, tajribasi yo'qmi, nima problema? · **purpose**: Sotuv muammosining sababini qidirish · **ts**: 07:04
+- **question**: Nechta klient bor u yerda hozir sizdan olayotgan? · **purpose**: Mijoz bazasi va o'rtacha hajmni hisoblash · **ts**: 07:04
+- **question**: 300 tonnani sotishimiz kerakmi? 5 tonnadan bo'lsa 60 ta mijoz kerakmi? · **purpose**: Maqsadni mijoz soniga aylantirish · **ts**: 08:04
+- **question**: Mana shu 60 ta mijozning o'zi bormi Ivanovada? Nechta mijoz bor? · **purpose**: Bozor sig'imini tekshirish · **ts**: 08:04
+- **question**: Ivanovaning o'zida eng chempion kim? Nomer 1 kim? Eng katta konkurentingiz kim? · **purpose**: Bozor chempionini aniqlash · **ts**: 08:04
+- **question**: Qaysi kompaniyaning, qaysi menejerning eng ko'p klientskiy bazasi bor? · **purpose**: Yollash uchun manba topish · **ts**: 09:05
+- **question**: Necha pul oladi u yerdagi sotuvchilarning zo'ri? 10000 berib ola olasizmi? · **purpose**: Yollash iqtisodini tekshirish · **ts**: 10:05
+- **question**: Kim chempionligini hozir bilasizmi? Telefon qilib bila olasizmi? · **purpose**: Fakt bo'shlig'ini darhol to'ldirish · **ts**: 11:08
+- **question**: (Hamkorga) Kto chempion v Ivanovo po tkani — kakie kompanii, iz kakix stran? · **purpose**: Raqobatchini aniqlash · **ts**: 13:09
+- **question**: (Hamkorga) Zachem im stolko ofisov v drugix gorodax? · **purpose**: Chempionning bozor qamrovi mantiqini tushunish · **ts**: 15:09
+- **question**: (Hamkorga) Skolko protsentov obyoma v Ivanovo, skolko po regionam? · **purpose**: Bozor geografiyasi va fokusni aniqlash · **ts**: 16:09
+- **question**: (Hamkorga) Znayete kogo-to personalno iz otdela prodaj Mirteksa? Est bivshie sotrudniki? · **purpose**: Yollash kanalini topish · **ts**: 17:09
+- **question**: (Hamkorga) Kak u vas postroen otdel prodaj — vam zvonyat ili vi sami xodite? · **purpose**: Sotuv modelini aniqlash · **ts**: 17:09
+- **question**: (Hamkorga) Pochemu takaya raznitsa — chto ne xvataet, chtobi uvelichit do 1000 ton? · **purpose**: Benchmarkdan farq sababini ijrochidan olish · **ts**: 18:12
+- **question**: (Hamkorga) Esli ya vam dam ostatok 200, 300, 500 ton — naskolko uvelichitsya prodaja? · **purpose**: Richag elastikligini o'lchash · **ts**: 19:14
+- **question**: (Hamkorga) S chego zarabativayete — s obyoma, s vipolneniya plana? KPI iz chego sostoit? · **purpose**: Motivatsiya tizimini aniqlash · **ts**: 19:14
+- **question**: (Hamkorga) Provokatsionniy vopros: esli bi u vas bilo, eto moglo povliyat na prodaji? · **purpose**: Motivatsiya ta'sirini tekshirish · **ts**: 20:40
+- **question**: Nima oldingiz suhbatdan? · **purpose**: Mehmonning o'zi rejasini aytishi bilan yopish · **ts**: 27:43
+- **question**: (Zaldagi xaridorga) Necha puldan olasiz? O'rta bo'yoqlarni qanchadan? To'q ranglarni? 5,5 dan bersalar olasizmi? · **purpose**: Bitimni joyida yopish · **ts**: 31:44
+
+## Video 08 — Raqobatchilar bilan kurashmang, ularning o‘zidan pul ishlang! | Alisher Isaev
+
+- **question**: Rentakar degan brendingiz bormi? Brend nomi rentacarmi? · **purpose**: Brend va patent holatini tekshirish · **ts**: 01:00
+- **question**: Nechta mashinangiz bor? · **purpose**: Biznes hajmini bilish · **ts**: 02:00
+- **question**: Zapros? Nimaga keldingiz? Nima kutyapsiz suhbatdan? · **purpose**: So'rovni aniqlash · **ts**: 02:00
+- **question**: Biznes o'zgartirmoqchisizmi yoki parallelmi? · **purpose**: Yangi yo'nalishning asosiy biznesga munosabatini aniqlash · **ts**: 03:00
+- **question**: Rentacar qilayotganlar Tojikistonliklarmi yoki chet elliklarmi? Foizda qancha? · **purpose**: Mavjud mijoz tarkibini bilish · **ts**: 03:00
+- **question**: Bozori qancha? Kimdir qilganmi bu narsani? · **purpose**: Bozor va raqobat mavjudligini tekshirish · **ts**: 03:00
+- **question**: Nimaga yoqib qoldi? Prosta uchib ko'rdingiz, mazza qildingizmi yoki biznes sifatida potensial ko'rdingizmi? · **purpose**: G'oyaning emotsional yoki biznes asosini ochish · **ts**: 04:00
+- **question**: Savol nimada? · **purpose**: Mehmondan aniq savolni olish · **ts**: 05:00
+- **question**: Tog'ga chiqqanlar Dushanbedan kelib ketadiganlarmi yoki mehmonxonalar atrofidagilarmi? Infrastruktura bormi? · **purpose**: Mijoz geografiyasi va kanalni aniqlash · **ts**: 06:01
+- **question**: Qayerdan ushlaysiz mijozni? · **purpose**: Lid manbasini aniqlash · **ts**: 07:02
+- **question**: Nechta odam kiradi? Nechta ot bor? · **purpose**: Bozor hajmi uchun proksi topish · **ts**: 08:02
+- **question**: Bitta otning soati necha pul? Necha soat ishlaydi? Har kuni bormi? · **purpose**: Maksimal bozorni hisoblash · **ts**: 09:03
+- **question**: Bu bozorning qancha foizini olmoqchisiz? · **purpose**: Realistik ulushni belgilash · **ts**: 10:03
+- **question**: Sizning bir soatingiz qancha turadi? · **purpose**: Narxni raqobatchi (ot) bilan solishtirish · **ts**: 11:03
+- **question**: Ichida qancha foydasi bo'lishi mumkin? · **purpose**: Marja va foydani chiqarish · **ts**: 11:03
+- **question**: Shunaqa joy Tojikiston bo'yicha nechta? · **purpose**: Maksimal masshtabni hisoblash · **ts**: 12:03
+- **question**: Dunyoda kimdir kvadrotsikl ijarasi bilan zo'r bo'lib ketganmi? · **purpose**: Global benchmark orqali modelni tekshirish · **ts**: 15:05
+- **question**: Qiziq marshrutlar o'ylab topadigan joylar bormi? · **purpose**: Emotsiya/tur modelining imkoniyatini tekshirish · **ts**: 17:06
+- **question**: Qaysi variant sizga qiziqroq — birinchisimi, ikkinchisimi, ikkalasimi? · **purpose**: Mehmonni tanlovga majburlash · **ts**: 19:06
+- **question**: Marshrutni qanday sotasiz? Kimga sotmoqchisiz? · **purpose**: Sotuv kanallarini chiqarish · **ts**: 19:06
+- **question**: Kompaniyalar xodimlarini team building'ga olib chiqishi mumkinmi? · **purpose**: B2B kanalni (HR) ochish · **ts**: 20:07
+- **question**: Qaysi yo'nalish ko'proq oqim olib keladi deb o'ylaysiz? · **purpose**: Kanallarni ustuvorlashtirish · **ts**: 20:07
+- **question**: Nima qilsa hamma borishni boshlaydi? Kim borsa? · **purpose**: Ijtimoiy isbot/bloger g'oyasiga olib kelish · **ts**: 22:07
+- **question**: O'zi auditoriyasi kim? Boy insonlarmi yoki oddiy insonlar ham bora oladimi? · **purpose**: Segmentni aniqlash · **ts**: 22:07
+- **question**: Qaysi bloger bor, necha million obunachisi bor? · **purpose**: Konkret ismlar va raqamlar bilan reja tuzish · **ts**: 22:07
+- **question**: Bularning auditoriyasi aynan sizning auditoriyangizmi? · **purpose**: Bloger auditoriyasi mosligini tekshirish · **ts**: 24:08
+- **question**: Bu yo'nalish yurib ketishiga ko'zingiz yetyaptimi? · **purpose**: Mehmonning ishonchini tekshirish · **ts**: 25:10
+- **question**: Zayavkalarni qabul qilish uchun savdo bo'limi, call center bormi? · **purpose**: Lidlarni qayta ishlash tayyorligini tekshirish · **ts**: 25:10
+- **question**: Nima muammo yana ko'ryapsiz bu biznes modelda? · **purpose**: Mehmonni xavflarni o'zi topishga undash · **ts**: 26:10
+- **question**: Bitta baggi necha pul? Boshlashga necha pul kerak? · **purpose**: Kirish narxini aniqlash · **ts**: 26:10
+- **question**: Qanaqa qilib himoya qilmoqchisiz biznesingizni? · **purpose**: Kirish to'sig'i va raqobat xavfini ko'rsatish · **ts**: 26:10
+- **question**: Eng mashhur baggilar qaysi brend? · **purpose**: Eksklyuziv distribyutsiya g'oyasiga olib kelish · **ts**: 29:10
+- **question**: Siz hozir fakticheskiy asosiy biznesingiz nima bo'lyapti? · **purpose**: Mehmonga yangi biznes modelni ko'rsatish · **ts**: 29:10
+- **question**: Nima xulosalar? Nima eshitdingiz, nima oldingiz? · **purpose**: Mehmonni o'zi xulosa qilishga majburlash · **ts**: 30:11
+- **question**: Ko'zingiz yetyaptimi? · **purpose**: Tushunish va ishonchni tekshirish · **ts**: 31:11
+
+## Video 09 — Dubay ko'chmas mulkiga hozir investitsiya qilish kerakmi? | Alisher Isaev
+
+- **question**: Xo'p, nima zapros? · **purpose**: So'rovni olish · **ts**: 01:00
+- **question**: Siz Bali, Turkiya, Saudiya bo'yicha mutaxassismisiz yoki O'zbekistondan investorlar topish bo'yicha mutaxassismisiz? · **purpose**: Biznesning haqiqiy kompetensiyasini aniqlash · **ts**: 02:00
+- **question**: Dubayda asosiy mijozlaringiz O'zbekistondanmi yoki farqi yo'qmi? · **purpose**: Mijoz segmentini aniqlash · **ts**: 03:01
+- **question**: Necha yil yashadingiz? · **purpose**: Bozor tajribasi hajmini o'lchash (11 yil — keyin argument bo'ladi) · **ts**: 03:01
+- **question**: Tasavvur qiling, Dubayni tanimaysiz, lekin O'zbekistonda mashhursiz. Dubayga qanaqa qilib kirgan bo'lardingiz? Qadamlaringiz — bir, ikki, uch... · **purpose**: Noldan kirish algoritmini mehmonning o'zidan chiqarish · **ts**: 04:01
+- **question**: Top-10 kompaniyalarning ishlash prinsiplarini o'rganish uchun kimga chiqishingiz kerak? Konkret insonlargami? · **purpose**: Umumiy rejani konkret harakatga tushirish · **ts**: 05:01
+- **question**: Keyingi qadamingiz? Menejerlar bilan nima qilasiz — konsultant sifatida ishlatasizmi, ishga olasizmi? · **purpose**: Algoritmni bosqichma-bosqich tortib chiqarish · **ts**: 05:01
+- **question**: O'zingiz ochgandan ko'ra top menejerni olganingiz tezroq bozorga kiritadimi? · **purpose**: Hamkor orqali kirish afzalligini mehmonga tasdiqlatish · **ts**: 06:02
+- **question**: Endi savol — Bali qanaqa qilish kerak? · **purpose**: Dubay algoritmini Bali amaliyoti bilan taqqoslashga o'tish · **ts**: 07:02
+- **question**: Nimaga Baliga qilayotganingiz bilan Dubayga qilinadigan narsada bir xillik yo'q? Nima qolib ketdi? · **purpose**: Mehmonning o'zi tushirib qoldirgan qadamni (konsultant) topishi · **ts**: 08:02
+- **question**: Shakllanmagan bozor haqida ma'lumot biladigan konsultant olishdan boshlagan yaxshi emasmi? · **purpose**: Xulosani savol shaklida berish · **ts**: 08:02
+- **question**: Saudiyada nima qilish kerak deb o'ylaysiz? · **purpose**: Mehmon yangi tushunchani qo'llay olishini tekshirish · **ts**: 09:03
+- **question**: 11 yil ishlagan odamni olganingiz tezroq bo'lmaydimi? · **purpose**: O'zi o'rganish va tajribani sotib olish narxini taqqoslash · **ts**: 10:04
+- **question**: Savdoga kirmoqchi bo'lsak, hujjatlarga chuqurlashish, arab tilini o'rganish nimaga kerak? · **purpose**: Ortiqcha shaxsiy harakatlarni shubha ostiga olish · **ts**: 10:04
+- **question**: Mutaxassis orqali ishlab o'zbek investorni ko'proq himoya qilmaysizmi? · **purpose**: Mehmonning e'tirozini (investorni himoya qilish) uning o'ziga qarshi burish · **ts**: 11:04
+- **question**: O'zingiz bilgan narsaga rioya qilmayapsiz — nimaga? · **purpose**: Ko'zgu: bilim va amal orasidagi tafovutni ko'rsatish · **ts**: 11:04
+- **question**: Shu 1, 2, 3, 5 degan qadamni istalgan davlatga qila olasizmi? Angliyaga, viza bermasa ham? · **purpose**: Algoritmning universalligi va asoschiga bog'liq emasligini test qilish · **ts**: 14:04
+- **question**: Qolganini nima qilasiz — o'z qo'lingiz bilan qilasizmi? · **purpose**: O'zi qilish yo'lining narxini mehmonning o'zi aytishi · **ts**: 14:04
+- **question**: O'zbekistondan xodim yuborgan yaxshimi yo'qmi? CEO va sotuvchilardan qaysi biri o'zbek bo'lgani to'g'ri? · **purpose**: Filial strukturasini mehmon bilan birga qurish · **ts**: 16:05
+- **question**: Realniy qancha chegirma bilan uy berish ehtimoli katta — internet emas, ichida yurgan odam sifatida? · **purpose**: Investorlar uchun real bozor ma'lumotini olish · **ts**: 18:05
+- **question**: Ikkilamchi bozor-chi, tayyor uy olmoqchi bo'lsam? · **purpose**: Bozor segmentlari bo'yicha chegirmani ajratish · **ts**: 19:05
+- **question**: 20% dan ko'proq chegirma topa olmaymanmi? · **purpose**: Chegirma chegarasini va sifat bilan bog'liqligini aniqlash · **ts**: 20:06
+- **question**: 30–40%, balkim 50% degan variantlar bordir? · **purpose**: Mish-mish raqamlarni tekshirish · **ts**: 21:06
+
+## Video 10 — O‘quv markazlar kelajagi nima bo‘ladi? | “Razbor” 22-soni | Alisher Isaev
+
+- **question**: Zapros nimada? · **purpose**: So'rovni aniqlash · **ts**: 01:01
+- **question**: Ya'ni birinchisi brend qilish, ikkinchisi maktab ochishga sarmoya topish deyapsiz, to'g'rimi? · **purpose**: So'rovni qayta formulirovka qilib tasdiqlatish · **ts**: 02:01
+- **question**: Brend qilish deganda nima kutyapsiz? Siz uchun brend nima degani? · **purpose**: Abstrakt maqsadni o'lchovga aylantirish · **ts**: 02:01
+- **question**: Nechta bola o'qiydi? Topda (liderlarda) qancha o'qiydi? · **purpose**: Masshtab va raqobat farqini ochish · **ts**: 03:01
+- **question**: Bir oyda nechta odam lid bo'lib ro'yxatdan o'tadi? Nechtasi bepul darsga keldi? Nechtasini sotdingiz? · **purpose**: Voronkani bosqichma-bosqich foizda o'lchash · **ts**: 05:03
+- **question**: Muammo qayerda? · **purpose**: Raqamlardan 'teshik' bosqichni topish · **ts**: 06:04
+- **question**: 1500 lid olib kelish uchun necha pul ishlatyapsiz, byudjet? · **purpose**: Lid va mijoz narxini hisoblash · **ts**: 09:06
+- **question**: O'rtacha chek qancha? LTV qancha — necha oy o'qiydi? · **purpose**: Unit-ekonomikani (LTV vs CAC) chiqarish · **ts**: 10:06
+- **question**: Agar byudjetni 4000 qilsangiz nechta mijoz keladi? · **purpose**: Eng sodda o'sish richagini ko'rsatish · **ts**: 12:06
+- **question**: 10% ni ko'paytirish uchun nima muammo ko'ryapmiz? (zalga) · **purpose**: Gipotezalarni yig'ish · **ts**: 13:07
+- **question**: Analiz deganda nima xohlayapmiz? Bizga kim qiziq — 10% mi, 90% mi? · **purpose**: Diqqatni kelmaganlarni o'rganishga (kasdev) burish · **ts**: 18:08
+- **question**: 90% ni 100% deb olib, foizlarga bo'lib bering — necha foiz ishonch yo'q deyapti? · **purpose**: Sabablarni miqdoriy taqsimlash · **ts**: 20:08
+- **question**: Yana nimadir bormi yoki faqat ishonch yo'qmi? · **purpose**: Barcha sabablarni ochish · **ts**: 21:09
+- **question**: Konkurentlarda necha pul? · **purpose**: 'Qimmat' e'tirozi haqiqiymi yoki bahonami — tekshirish · **ts**: 21:09
+- **question**: Nima qilsakki, juda tez vaqtda ishonch darajasini oshira olamiz? Tasavvur qilinglar, nima qilsa siz ishonasizlar? · **purpose**: Mijoz nuqtai nazaridan ishonch omillarini topish · **ts**: 22:10
+- **question**: Necha foiz o'quvchingiz IELTS 7 oladi? · **purpose**: Ishonch uchun raqamli dalil topish · **ts**: 24:15
+- **question**: 7 dan past bo'lsa, qaytarib berishga tayyormisiz hamma pulini? Necha odamga qaytardingiz? · **purpose**: Kafolatli kuchli taklifni sinash · **ts**: 24:15
+- **question**: Qayerda adashyapmiz hozir, qayerdan noto'g'ri ketib qolyapmiz? · **purpose**: Zalni metodik xatoni ko'rishga undash · **ts**: 26:16
+- **question**: Qachondan beri kuzatyapsiz? Nimaga shunchadan beri yetib kelmadingiz, nimaga endi keldingiz? Nima shubha bo'lgan? · **purpose**: Mehmonni o'z mijozining o'rniga qo'yib, haqiqiy sababni (ehtiyoj yo'qligini) ochish · **ts**: 27:17
+- **question**: Nima qilsak tezroq? · **purpose**: Gipoteza oqimidan tez yo'lga o'tish · **ts**: 30:19
+- **question**: Ular sizga kelmasa, siz ularga borishingiz mumkinmi? Qayerda ular? · **purpose**: Kanalni teskari burish (B2B maktablar) · **ts**: 31:20
+- **question**: Tez chiqib ketish yo'li qanaqa? Kim bu tog'ga chiqib bo'lgan? · **purpose**: Tajribali o'yinchilardan o'rganish g'oyasiga olib kelish · **ts**: 33:20
+- **question**: Top-menejer nechcha pul topadi? Haftasiga necha soat ishlaydi? · **purpose**: Ekspert soati narxini hisoblash · **ts**: 33:20
+- **question**: U odamni topish qiyinmi? Qayerdan topamiz? · **purpose**: To'siq yo'qligini ko'rsatish (LinkedIn, HH.ru) · **ts**: 35:21
+- **question**: Kim bu muammoni hal qila olgan? Kimda necha foiz? · **purpose**: Benchmark orqali o'sish nuqtasini tasdiqlash yoki rad etish · **ts**: 38:24
+- **question**: Agar tog' ustidagilarda ham shu 10% bo'lsa nima qilasiz? · **purpose**: Gipotezani rad etish testi · **ts**: 38:24
+- **question**: Men stakan ishlab chiqarmoqchi bo'lsam, zavodim bo'lishi shartmi? · **purpose**: Kapitalsiz kengayish yo'lini analogiya orqali ochish · **ts**: 42:25
+- **question**: Bor maktablar ichida sinf bo'ladimi? Nima cheklovlar ko'ryapsiz? · **purpose**: Muqobil modelni mehmon bilan sinash · **ts**: 44:25
+- **question**: Nima xulosa suhbatimizdan? Ishonchga nima orqali kirasiz? · **purpose**: Mehmonni o'zi xulosa va reja chiqarishga majburlash · **ts**: 47:27
+
+## Video 11 — Xizmat ko'rsatish sohasida mijoz sonini 10x oshirish yo'li | «Razbor» 21-soni | Alisher Isaev
+
+- **question**: Nima zapros? Nima kutuv? · **purpose**: So'rovni aniqlash · **ts**: 01:00
+- **question**: Bu ikkita har xil biznes. Qaysi birini ko'rib chiqamiz? · **purpose**: Fokus tanlatish · **ts**: 01:00
+- **question**: Gapirib bering biznesingizni. Nima qildingiz, qanaqa qilib kelib qoldingiz bu biznesga? · **purpose**: Kontekst va tajribani olish · **ts**: 01:00
+- **question**: Qanaqa ma'lumotlarni yig'ishni boshlaymiz biznes uchun? Nimadan boshlaymiz? · **purpose**: Auditoriyani tahlilga jalb qilish · **ts**: 02:00
+- **question**: Nechta xodimingiz bor? Buxgalteringiz? Bitta buxgalterga nechta firma tushyapti? · **purpose**: Ishlab berish sig'imini tekshirish · **ts**: 03:00
+- **question**: Shu to'rtta odam bilan maksimal nechta firma qila olasiz? · **purpose**: Resurs muammosini istisno qilish · **ts**: 04:00
+- **question**: Mijozingiz kim? Nechta xodimi bor? Kichkina korxonami, yirikmi? Oboroti qancha? · **purpose**: Mijoz portreti · **ts**: 05:00
+- **question**: Nimaga o'zining buxgalteri yo'q, sizga murojaat qilyapti bu korxona? · **purpose**: Mijozning motivi va og'rig'ini aniqlash · **ts**: 05:00
+- **question**: Qayerdan tanisiz hamma 30 tasini? Qayerdan tanigansiz? · **purpose**: Hozirgi kanalni aniqlash (faqat tanish) · **ts**: 05:00
+- **question**: Bu korxonalar o'zi qayerda yuradi? Qaysi daryoda yuradi aynan bu baliq? · **purpose**: Mijozlar to'planadigan joylarni topish · **ts**: 06:00
+- **question**: Yagona darchaga borgan zahoti sizga borish uchun nima qilish kerak? · **purpose**: Tor joyda ushlash mexanizmini topish · **ts**: 06:00
+- **question**: Daryoning tor qismida baliq tutish osonmi yoki keng qismidami? Nimaga? · **purpose**: Lidogeneratsiya mantiqini mehmonga o'zi topdirish · **ts**: 07:01
+- **question**: Sizning biznesingizda o'sha tor qismi nima? Banklar? Soliq? · **purpose**: Tor kanallar ro'yxatini tuzish · **ts**: 08:02
+- **question**: Sizning xizmatingiz Qashqadaryoda bo'lishi shartmi? Qonun-qoidaning farqi bormi? · **purpose**: Hududiy cheklovchi e'tiqodni sindirish · **ts**: 09:02
+- **question**: Toshkentdagi firmamni sizga bersam, yo'q deysizmi? · **purpose**: Boshqa hududga xizmatga tayyorlikni tekshirish · **ts**: 10:02
+- **question**: Ay hamkordan foydalanasizmi? Nimaga? Nimaligini bilmaysizmi? · **purpose**: Mavjud tayyor bazadan foydalanmaslikni ochish · **ts**: 10:02
+- **question**: Nima qilsangizki, bu yog'dagi insonlar sizga ma'lumot berishni xohlaydi? Qanaqa kelishasiz? · **purpose**: Hamkorlik/tavsiya mexanizmini ishlab chiqish · **ts**: 12:02
+- **question**: Telefonni beradimi? Yangi korxona ochilayotganini bilsangiz, aloqaga chiqsangiz bo'ladimi? · **purpose**: Sovuq chiqish ssenariysini tekshirish · **ts**: 13:03
+- **question**: Menga savdo bo'limingizni gapirib bering. Savdo bo'limingiz kimdan tashkil topgan? · **purpose**: Sotuvni kim bajarishini aniqlash · **ts**: 14:03
+- **question**: Marketolog vazifasi nima? Nimadan pul oladi? · **purpose**: Marketing KPI borligini tekshirish · **ts**: 15:03
+- **question**: Nima qilsa zo'r ishlayapti deb qabul qilasiz, nima qilsa yomon ishlayapti deb qabul qilasiz? · **purpose**: O'lchov mezonini aniqlash · **ts**: 16:03
+- **question**: Marketologga 500 dollar berib, nechta mijoz olib kelishi kerak deb vazifa qo'yishimiz kerak? Mijozingiz necha pulligini bilasizmi? · **purpose**: CAC tushunchasini kiritish · **ts**: 18:04
+- **question**: Skladga kartoshka kelmayapti — nima qilasiz? · **purpose**: Analogiya orqali natijasiz xodimga munosabatni o'zi topdirish · **ts**: 18:04
+- **question**: O'zbekistonda nechta yuridik shaxs bor? 100 mingtadan 30 tasini ishlatyapsiz — necha foiz? · **purpose**: Bozor hajmi va ulushni ko'rsatish · **ts**: 21:05
+- **question**: 30 ta mijozingiz ichida eng krutoy mijozingiz kim? Kimdan maqtana olasiz? · **purpose**: Ijtimoiy isbot aktivini topish · **ts**: 24:32
+- **question**: Nima xulosa? Savollaringizga javob topa oldingizmi? · **purpose**: Razborni yopish, mehmonning o'zi xulosa qilishi · **ts**: 29:32
+
+## Video 12 — 62 daqiqada restoran biznesining sotuvini 5 000 000 000 so'mga oshirishni o'rganing | Alisher Isaev
+
+- **question**: Qaysi biznesni ko'ramiz? (biznesingiz ko'p-ku) · **purpose**: Fokusni bitta biznesga qo'yish · **ts**: 01:00
+- **question**: Restoran qayerdan kelib chiqqan, nimaga qilyapsiz? Nechta odam, g'oya, konsepsiya nima? · **purpose**: Kontekst, motivatsiya, oliy maqsadni ochish · **ts**: 02:00
+- **question**: (Zalga) Rahbarni olib kelib qo'ydik — nimadan boshlaysiz? · **purpose**: Auditoriyani o'ylashga majburlash, keyin to'g'ri metodni ko'rsatish · **ts**: 04:01
+- **question**: Doktor nimadan boshlaydi? Restorandagi o'sha 5 ta analiz nima? · **purpose**: Birlamchi metrikalarni tanlash · **ts**: 05:01
+- **question**: Bir kunda nechta odam kiradi? · **purpose**: Mijoz oqimining asosiy raqami · **ts**: 07:02
+- **question**: O'rtacha chek kishi boshiga qancha? (guruh emas) · **purpose**: Formulaning ikkinchi ko'paytuvchisi, birlikni aniqlashtirish · **ts**: 07:02
+- **question**: Qayta sotuvni o'lchaysizmi? Qanaqa qilib o'lchaysiz? · **purpose**: Qayta jalb qilish tizimi bor-yo'qligini tekshirish · **ts**: 08:02
+- **question**: Restoran sohasidami yoki sizning restoranda (CRM qiyin)? · **purpose**: Umumlashtirilgan bahonani sindirish · **ts**: 08:02
+- **question**: Umumiy sig'im qancha (nechta o'rin)? · **purpose**: Jismoniy cheklovni bilish · **ts**: 10:03
+- **question**: Bitta mehmon yilda/oyda necha marta qaytadi? (taxmin qiling) · **purpose**: Qayta tashrif chastotasini realistik baholash · **ts**: 11:03
+- **question**: Bir kunlik pulingizning necha foizini nonushta/obed/kechki ovqatdan olasiz? · **purpose**: Kun bo'limlari bo'yicha yuklama va potensialni topish · **ts**: 12:03
+- **question**: Restoran aslida nima biznesi? Nima sotyapmiz restoranda? · **purpose**: Mohiyatni (stul-soat) qayta formulirovka qilish · **ts**: 15:05
+- **question**: Qaysi soatlarda stul bo'sh turib zarar keltiryapti? · **purpose**: Yuklama past soatlarni aniqlash · **ts**: 16:06
+- **question**: O'rtacha chekni ko'paytirish mumkinmi? · **purpose**: Richag sifatida narxni tekshirib, segment xavfini ko'rsatish · **ts**: 18:09
+- **question**: Qanaqa reklama qilasiz? Odamlar qanday qilib kelyapti? · **purpose**: Mijoz jalb qilish kanallarini ochish · **ts**: 21:11
+- **question**: Instagramdan nechta lid keladi? Nechta odam Instagramdan kelganini bilasizmi? · **purpose**: Kanal samaradorligi o'lchanayotganini tekshirish · **ts**: 22:11
+- **question**: Lid keyin nima qiladi — telefon qiladimi? Sotuv bo'limi bormi? · **purpose**: Lid qayta ishlash jarayonini ochish · **ts**: 22:11
+- **question**: (Zalga) Kim bu restoranni biladi / qiymatini biladi / sinab ko'rgan / doimiy boradi / bir marta borib qaytmagan? · **purpose**: CJM bosqichlaridagi yo'qotishni jonli ko'rsatish · **ts**: 24:12
+- **question**: Nimaga bormay qo'ydinglar? · **purpose**: Mijoz yo'qotish sabablarini topish (kutilma, eslatma yo'qligi) · **ts**: 25:12
+- **question**: Reklamaga oyda necha pul ketkazasiz? Qaysi bosqichga qanchasi ketyapti — taqsimlab bera olasizmi? · **purpose**: Byudjet CJM bo'yicha boshqarilayotganini tekshirish · **ts**: 29:14
+- **question**: Atrofda nechta ofis bor? Ikkita ofis bilan ishlash yaxshi ketyaptimi? Nega boshqalar bilan emas? · **purpose**: B2B potensialini ochish · **ts**: 32:15
+- **question**: Blogerlardan keyin savdo sezilarli oshadimi? Unda nimaga oyda bir marta? · **purpose**: Ishlagan kanalni masshtablashga undash · **ts**: 34:16
+- **question**: Bloger necha pul turadi, nechta mijoz keladi? Ko'taradimi? · **purpose**: CAC ni hisoblash · **ts**: 34:16
+- **question**: Mijoz necha marta buyurtma qilsa o'zini-o'zi oqlaydi? · **purpose**: CAC ni LTV/qayta tashrif bilan solishtirish · **ts**: 36:17
+- **question**: 375 ni nechaga oshirsak bo'ladi? Ko'zimiz yetadimi? · **purpose**: Realistik maqsad raqamini egasi bilan kelishish · **ts**: 38:21
+- **question**: Ilovani ishlatsak, kim qachon nima yeganini bilamizmi? · **purpose**: Shaxsiylashtirilgan qayta sotuv imkonini ko'rsatish · **ts**: 40:21
+- **question**: Yiliga necha marta kelishi mumkin? · **purpose**: Qayta tashrif maqsadini sig'im bilan moslash · **ts**: 41:21
+- **question**: Men klientman — meni qanaqa qilib tanishlarimni olib kelishga undaysiz? · **purpose**: Tavsiya mexanikasini o'ylatish · **ts**: 43:22
+- **question**: Nimaga dostavka 30 ta, nimaga ko'p emas? Agregator ichida zo'r bo'lish uchun nima qilish kerak? · **purpose**: Dostavka potensialini va unga ta'sir qiluvchi omillarni topish · **ts**: 48:24
+- **question**: Yetkazish vaqti sizga bog'liqmi? Nima sizga bog'liq? · **purpose**: Nazoratdagi omillarga fokus · **ts**: 49:24
+- **question**: Restoraningizning fishkasi nimada? · **purpose**: USP ni aniqlash · **ts**: 55:38
+- **question**: Oylik Instagram kontentingizning necha foizini o'sha fishkaga ajratasiz? · **purpose**: USP marketingda ishlatilayotganini tekshirish · **ts**: 56:39
+- **question**: Klientlaringiz restoraningizni bitta so'z bilan nima deb eslaydi? · **purpose**: Pozitsiyalashni tekshirish, uy vazifasi berish · **ts**: 59:41
+- **question**: Kichkina xulosa — bugun nima oldingiz? · **purpose**: Mehmonni o'zi xulosa va majburiyat aytishga undash · **ts**: 59:41
+
+## Video 13 — Andijonda $70 000 000 lik loyiha | «Razbor» 19-soni | Alisher Isaev
+
+- **question**: Bugun qaysi biznesingizni razbor qilamiz? Nima zapros? Qayerda muammo bor? Nima savolga javob chiqmoqchisiz? · **purpose**: Razbor fokusini va so'rovni belgilash · **ts**: 01:00
+- **question**: Zapros nima — o'smoqchimisiz? · **purpose**: Umumiy gapni aniq maqsadga keltirish · **ts**: 02:02
+- **question**: Hozir nechta uy quryapsiz? Bir vaqtda nechta uy ketyapti? Necha kvadrat? · **purpose**: Biznes hajmini o'lchash · **ts**: 03:02
+- **question**: Nima xalaqit berayapti? To'siqlar ko'ryapsizmi yoki printsipda yaxshi ketyaptimi? · **purpose**: Tor joyni topish · **ts**: 03:02
+- **question**: Shuncha uy sotilyaptimi? · **purpose**: Sotuv muammosi gipotezasini tekshirish · **ts**: 04:02
+- **question**: Hamma narsani qilib bo'lgansiz, hozir nima? Faqat vaqtmi, pul yetmayaptimi yoki sotuv yaxshi emasmi? · **purpose**: Tanlovli savol bilan aniq cheklovni olish · **ts**: 06:03
+- **question**: Nimaga o'smayapti deb o'ylaysiz? Qancha uy sotyapsiz? Nechta sotmoqchisiz? · **purpose**: Maqsad va faktni raqamlashtirish · **ts**: 07:03
+- **question**: Mijozlarni uch toifaga bo'lsak (investorlar, birinchi xarid, kengaytiruvchilar), foizda qanday bo'linadi? · **purpose**: Segment tuzilmasini va bo'sh segmentni ochish · **ts**: 07:03
+- **question**: Buni o'lchaysizlarmi yoki o'lchamaysizlarmi? · **purpose**: Ma'lumot madaniyatini tekshirish · **ts**: 08:03
+- **question**: Bularni qayerdan topasiz? Instagrammi? · **purpose**: Lid manbalarini aniqlash · **ts**: 09:03
+- **question**: Nechta sotuvchi ishlaydi? Kuniga nechta lid tushadi? Kiruvchi qancha, chiquvchi qancha? Qanchasi ofisga keladi? Ulardan qanchasi oladi? · **purpose**: Varonka konversiyalarini hisoblash · **ts**: 09:03
+- **question**: Shahrixonda jami nechta xonadon sotiladi? Konkurentlarda nechta? · **purpose**: Bozor hajmi va ulushini aniqlash · **ts**: 11:04
+- **question**: Haligi 50 ta nimaga boshqadan olgan? Ularni qanday qilib o'zingizga o'tkazsangiz bo'ladi? · **purpose**: Raqobatda yutqazish sababini topish · **ts**: 13:04
+- **question**: Faqat pervichkani hisoblayapsizmi? Vtorichka qancha? Taxmin qila olasizmi? · **purpose**: Bozorni to'liq ko'rish · **ts**: 13:04
+- **question**: Bitmagan uylar ichida siz 100% olasizmi yoki boshqalar ham sotadimi? · **purpose**: Kanal to'yinganligini (monopoliya) tekshirish · **ts**: 14:04
+- **question**: 25 ta sotilgan uydan nechtasi investorlar? Investor taxminan necha pullik kapitalga ega? Jami necha pul tikkan? · **purpose**: Investor segmentini o'lchash · **ts**: 15:04
+- **question**: Men sizga hozir 25 minglik uyga pul tiksam, qachon bitirasiz va necha pulga sotib olaman? · **purpose**: Mahsulotni investor ko'zi bilan hisoblash · **ts**: 16:05
+- **question**: Qaysi ko'rinishda meni (investorni) qiziqtira olasiz? · **purpose**: Mehmonni qiymat taklifini o'ylashga majburlash · **ts**: 18:05
+- **question**: Necha pul, necha foizga tikasiz? (klubdoshga) · **purpose**: Talabni jonli validatsiya qilish · **ts**: 18:05
+- **question**: Nimaga aynan sizni tanlash kerak? · **purpose**: Raqobat ustunligini aniqlash · **ts**: 20:06
+- **question**: Sotuv narxini 700 ga olamizmi? · **purpose**: Qo'shimcha qiymat orqali narx oshirish imkonini tekshirish · **ts**: 22:06
+- **question**: Ikki yilda bitadigan uyni bir yilda bitira olasizmi? 14–15 oyda-chi? · **purpose**: Muddat richagining texnik imkonini tekshirish · **ts**: 24:08
+- **question**: Necha pul kerak? · **purpose**: Investitsiya ehtiyojini raqamlashtirish · **ts**: 25:09
+- **question**: Bu insonlarni qayerdan qidiramiz? Qayerda bor? · **purpose**: Investor manbalarini topish · **ts**: 26:10
+- **question**: O'tgan yili necha pullik sarmoya tikkansiz (Dubayga)? (klubdoshga) · **purpose**: Pul oqimi hajmini aniqlash · **ts**: 27:13
+- **question**: Lichniy brendingiz bormi? Nechta podpischikingiz bor? · **purpose**: Ishonch infratuzilmasini baholash · **ts**: 29:13
+- **question**: Qisqacha xulosangizni aytsangiz. Nima oldingiz? Nima-nima qadamlar qilmoqchisiz? · **purpose**: Razborni mehmonning xulosasi bilan yopish · **ts**: 31:14
+
+## Video 14 — B2B sotuvdagi eng KATTA xatolar | «Razbor» 18-soni | Alisher Isaev
+
+- **question**: Kim siz? Qanaqa qilib bu sohaga kirib qoldingiz? Nima biznes qilyapsiz? · **purpose**: Tajriba, mahsulot chizig'i va kontekstni olish · **ts**: 01:00
+- **question**: Bugun razbor formatida nima zapros? · **purpose**: Aniq so'rovni olish · **ts**: 03:01
+- **question**: Nimaga bu yechim deb o'ylayapsiz? Nimaga o'zingiz o'zingizni davolayapsiz? Narx tushirish kerakmi? · **purpose**: Mehmonning tayyor yechimini shubha ostiga qo'yish · **ts**: 03:01
+- **question**: O'rtacha mijozingiz kim? Portretini chizaylik. Xususiy tashkilotmi, davlat tashkilotmi? · **purpose**: Segmentni aniqlash va suhbatni toraytirish · **ts**: 07:02
+- **question**: Taxminan qanchalik katta — nechta xodimlik yoki necha kvadrat ofis? · **purpose**: Mijoz hajmini raqamda aniqlash · **ts**: 08:02
+- **question**: U bizni qidirayotganini ham bilmay qolyapmizmi? Biz zanjirda kech qolyapmizmi? · **purpose**: Xarid jarayoniga kech kirishni aniqlash · **ts**: 09:02
+- **question**: 100 ta otkaz oldingiz — nechtasi skriningda, nechtasi kommersiya taklifidan keyin? · **purpose**: Voronkani etaplarga bo'lish va yo'qotishni raqamlash · **ts**: 10:02
+- **question**: Nechta snabjen bilan ichki skrining jarayonini o'rgandingiz? Nimaga qarab o'tdi-o'tmadi deb qaraydi? Qayerdan qidiradi? · **purpose**: Mijozning saralash mezonlarini tushunish · **ts**: 11:02
+- **question**: Google orqali qanaqa zapros beriladi? Google Analytics ishlatasizlarmi? Eng populyar so'z nima? Aniq bilasizmi? Shu zaprosga mos kontentingiz bormi saytda? · **purpose**: Onlayn skriningdagi ko'rinishni tekshirish · **ts**: 13:03
+- **question**: Skriningdan o'tish maqsadida arzon kreslo qo'yib qo'yishimiz mumkinmi? · **purpose**: Kirish mahsuloti g'oyasini mehmon analogiyasi orqali kiritish · **ts**: 13:03
+- **question**: Sizdan narx olgandan keyin snabjenets kimga olib boradi? Xodimlarga, direktorga ko'rsatadimi? Moliya direktori, buxgalter narxni nazorat qiladimi? · **purpose**: Kuch xaritasini chizish · **ts**: 16:04
+- **question**: Kamida korxona ichida uchta odamdan bittasi sizni chopishi mumkinmi? · **purpose**: Bitta kontakt bilan ishlash xavfini anglatish · **ts**: 19:05
+- **question**: Har bir soha uchun (masalan bank) standart yechimingiz bormi? · **purpose**: Sohaviy qadriyat taklifini qidirish · **ts**: 22:06
+- **question**: Mana menman — narxdan tashqari hammasi standart bo'lsa, nima argumentingiz bor? Nima hisobiga meni ko'ndirmoqchisiz? · **purpose**: Rol o'yinida LPR e'tirozi bilan argumentni sinash · **ts**: 23:06
+- **question**: Nimaga LPRga sizni qo'yib yuborishim kerak? Men o'zim hal qilaman, vakolatim bor. · **purpose**: Snabjenets e'tirozi bilan stress-test · **ts**: 26:06
+- **question**: Akustika qanaqa (shu yaxtada)? Bankda ham shunaqa bo'lishi mumkinmi? · **purpose**: Mijozning real og'rig'ini jonli misol bilan topish · **ts**: 30:10
+- **question**: Skrining orqali kirsak, faqat arzon mahsulot sotar ekanmizmi? 80–90% assortiment arzonmi? · **purpose**: Kanal tabiatini tan olish · **ts**: 32:10
+- **question**: Bepul sinab ko'rishga kreslo berasizlarmi? Qanchalik ishlaydi? · **purpose**: Test drive amaliyotini tekshirish · **ts**: 36:12
+- **question**: Siz oyoq kiyim olayotganda kiyib ko'rib olasizmi? Kreslolarni odamlar o'tirib ko'rib oladimi yoki narxga qarab? · **purpose**: Analogiya orqali muammo nuqtasini ochish · **ts**: 37:12
+- **question**: Shunday taklif bersak, qanchalik konversiyani oshirishi mumkin? · **purpose**: Gipotezani raqamlashtirish · **ts**: 39:13
+- **question**: Katta tashkilotlar odatda kim bilan ishlaydi — proyekt, remont, brigada, quruvchi? · **purpose**: Ta'sir qiluvchilar/yangi kanalni topish · **ts**: 41:13
+- **question**: 100 ta odam ofis remont qilyapti — nechtasi mebelni o'zi tanlaydi, nechtasiga remontchilar taklif qiladi? · **purpose**: Kanal ulushini taxmin qilish · **ts**: 42:14
+- **question**: ...deb o'ylaysiz. Lekin so'rab ko'rganmisiz? Nechta odamdan so'radingiz? · **purpose**: Farazni ma'lumot bilan tekshirish · **ts**: 42:14
+- **question**: Nechta dizayner bilan ishlaysiz? · **purpose**: Kanal hajmi va segmentini aniqlash · **ts**: 46:15
+- **question**: Dizaynerlik kompaniyalari bilan tizimli ishlasa, qanchalik qo'shimcha savdo olib keladi? · **purpose**: Yangi kanal potensialini baholatish · **ts**: 47:16
+- **question**: Zaprosga javob topdingizmi? Marjani ko'tarish yo'li nima ekan? · **purpose**: Razborni asl zapros bilan yopish · **ts**: 51:17
+
+## Video 15 — $1 000 000 000 lik kompaniyadan xodim yollash | «Razbor» 17-soni | Alisher Isaev
+
+- **question**: Top-menejerlikdan tadbirkorlikka o'tdingiz — hayotda nima o'zgardi? · **purpose**: Iliq kirish va mehmonning yangi rolini tushunish · **ts**: 02:02
+- **question**: Kengayishga ko'zingiz yetyapti, yangi bo'lgani uchun zo'r top torta olmayapsiz — to'g'ri tushundimmi? · **purpose**: Zaprosni aniq formulirovka qilish · **ts**: 04:03
+- **question**: Qaysi top-menejer kerak sizga? Qaysi lavozimga odam kerak? · **purpose**: Abstrakt zaprosni konkret lavozimga tushirish · **ts**: 04:03
+- **question**: U direktor yoki menejerlar hozir qaysi korxonada ishlayapti? · **purpose**: Nomzodlar manbasi va raqobatni aniqlash · **ts**: 05:03
+- **question**: O'sha kompaniyaning top-menejeri men deb tasavvur qiling. Nimaga sizga o'tishim kerak? · **purpose**: Taklifni nomzod ko'zi bilan sinash · **ts**: 05:03
+- **question**: Menga tabiatimga mos bo'lmagan taklif bermayapsizmi? · **purpose**: Taklif va nomzod tabiati nomuvofiqligini ochish · **ts**: 07:05
+- **question**: Mening kompaniyam yiliga qancha oborot qiladi? Siz menga 50 million oborotli kompaniyaga borgin deyapsiz — nima motivatsiya berasiz? · **purpose**: Kichik kompaniyaning pul bo'yicha raqobat qila olmasligini ko'rsatish · **ts**: 11:06
+- **question**: Sizga borib qanaqa qilib o'sishim mumkin? · **purpose**: Taklifni o'sish qiymatiga yo'naltirish · **ts**: 13:06
+- **question**: Sohangizda avtoritet bor. Kim o'sha avtoritet? · **purpose**: Magnit (maslahatchi) nomzodini topish · **ts**: 13:06
+- **question**: O'sha inson bilan ishlash imkoniyati bo'lsa — nomzodga katta argument bo'larmidi? Uni maslahatchilar kengashiga ola olasizmi? Har bir xodimga ustoz qilib bera olasizmi? · **purpose**: Magnit g'oyasining amaliy imkoniyatini tekshirish · **ts**: 14:08
+- **question**: Doktor Menondan tashqari yana kim magnit bo'lishi mumkin? · **purpose**: Kengash tarkibini kengaytirish · **ts**: 15:08
+- **question**: Doktor Menon sizga nega kelishi kerak? Tanish bo'lmagan odam nimaga kelishi kerak? · **purpose**: Avtoritetni tortish yo'lini aniqlash · **ts**: 17:08
+- **question**: CEO olib kelsangiz, obyomlaringizni kengaytirib bera oladimi? · **purpose**: Yollashning biznes maqsadini tekshirish · **ts**: 17:08
+- **question**: Siz top-menejerni boshqarishni bilasizmi? O'zingizdan kuchliroq menejerni-chi? · **purpose**: Egasining tayyorligini baholash · **ts**: 22:11
+- **question**: Nima qilsangiz uni boshqara bilasiz? Asosiy prinsiplar nima deb o'ylaysiz? · **purpose**: Mehmonni o'zi yechim topishga undash · **ts**: 23:11
+- **question**: Nimaga ko'p top-menejerlar adaptatsiya bo'lishi qiyin? · **purpose**: Moslashuv muammosini ochish · **ts**: 24:12
+- **question**: Qanaqa bo'lishingiz kerakki, top-menejeringiz siz bilan zo'r ishlashi uchun? U sizdan nima kutyapti? · **purpose**: Egasining roli va funksiyasini aniqlash · **ts**: 28:14
+- **question**: Qanchada bir vaqt ajratmoqchisiz u bilan suhbatga? · **purpose**: Muntazam ishlash rejasini konkretlashtirish · **ts**: 29:16
+- **question**: Top-menejeringiz o'zbekmi? · **purpose**: Nomzod segmentini va obro' kontekstini aniqlash · **ts**: 32:17
+- **question**: Xodim, mijoz, biznes egasi — qaysi birini birinchi o'ringa qo'yasiz? · **purpose**: Ustuvorliklarni aniqlash · **ts**: 32:17
+- **question**: Kunlik hayotingizda xodimni baxtli qilish bilan nima qilib shug'ullanyapsiz? · **purpose**: Deklaratsiyani amaliyot bilan tekshirish · **ts**: 33:17
+- **question**: Dubaydagi xodimingiz o'rtacha qancha topadi? · **purpose**: Xodimning A nuqtasini aniqlash · **ts**: 35:18
+- **question**: Qachon oxirgi marta «xodimimga bir million dollar ber» deb duo qilgansiz? · **purpose**: Rahbarning xodimga samimiy munosabatini ko'zgu qilib ko'rsatish · **ts**: 36:18
+- **question**: Boshqa korxona sizning bolangizni ikki barobar oylik bilan tortmoqchi — torta oladimi? · **purpose**: Xodim sodiqligining manbasini ko'rsatuvchi ritorik savol · **ts**: 37:19
+- **question**: Nima xulosa suhbatimizda? · **purpose**: Mehmonni o'z xulosasini aytishga undash · **ts**: 37:19
+
+## Video 16 — №1 fast-food restorani bo‘lish siri nimada? | “Razbor” 16-soni | Alisher Isaev
+
+- **question**: O'rtada aldanib qoldingiz — hal qildingizmi? · **purpose**: Insoniy kirish, munosabat o'rnatish · **ts**: 01:00
+- **question**: Restoranmi, fast-foodmi? (format) · **purpose**: Biznes formatini aniqlash · **ts**: 02:00
+- **question**: Zapros? Qaysi shahar? · **purpose**: So'rov va kontekstni aniqlash · **ts**: 04:01
+- **question**: Siz nima bo'yicha mutaxassissiz? · **purpose**: Egasining asl kompetensiyasini ochish · **ts**: 05:01
+- **question**: 10 yil kim bo'lib ishladingiz? · **purpose**: Tajribaning tabiatini (povar, boshqaruvchi emas) aniqlash · **ts**: 05:01
+- **question**: Ovqat pishirishni o'zim o'rganganim yaxshimi yoki yaxshi povar olib kelganim yaxshimi? · **purpose**: Analogiya orqali delegatsiya xulosasiga olib kelish · **ts**: 06:01
+- **question**: Ikki yo'l: yaxshi boshqaruvchi topish yoki o'zingiz 5 yil o'rganish — qaysi yaxshi? · **purpose**: Mehmonning o'zi tanlov qilishi · **ts**: 07:02
+- **question**: Jalolobodda / Qirg'izistonda zo'r boshqaruvchilar bormi? Xalqaro tarmoqlar (KFC, McDonald's) bormi? · **purpose**: Kadr bozorini baholash · **ts**: 07:02
+- **question**: Uzoq muddatda topishingiz kerakmi? · **purpose**: Vaqtinchalik yechimni doimiyga aylantirmaslik · **ts**: 08:02
+- **question**: Chempion kim? Ularda tizim zo'r yo'lga qo'yilganmi? · **purpose**: Kadr va tajriba manbasini aniqlash · **ts**: 10:02
+- **question**: Qachondir u yerda ishlab ketgan top-menejerlar bo'lishi mumkinmi? Topish yo'li bormi? · **purpose**: Nomzodlar havzasini aniqlash · **ts**: 10:02
+- **question**: Nima uchun u sizga kelib ishlashi kerak? · **purpose**: Ish beruvchi sifatidagi qiymat taklifini tekshirish (eng qiyin savol) · **ts**: 11:02
+- **question**: Uylanganmisiz? Necha yoshda? Zo'r bo'lib uylandingizmi yoki va'da qilib? · **purpose**: Vision/va'da bilan jalb qilish g'oyasiga ko'prik · **ts**: 12:03
+- **question**: 30, 35, 40-yilga borib qayerdasiz? O'zingizni qayerda ko'ryapsiz? · **purpose**: Uzoq muddatli maqsadni aniqlash · **ts**: 12:03
+- **question**: Raqamlar bormi — qaysi bosqichda nechta tochka? Yoki shunchaki zo'r bo'lmoqchimisiz? · **purpose**: Maqsad raqamlashtirilganini tekshirish · **ts**: 13:03
+- **question**: Mister Barbecue'da nechta tochka? · **purpose**: Benchmark masshtabini solishtirish · **ts**: 13:03
+- **question**: Nimaga siz zo'r bo'lishingiz kerak? Nimaning evaziga zo'r bo'lasiz? · **purpose**: Ma'no va farqlanishni ochish · **ts**: 16:05
+- **question**: Men oxirgi mijozman — KFC turibdi, sizniki turibdi. Nimaga sizga kirishim kerak? · **purpose**: USP ni mijoz nuqtai nazaridan tekshirish · **ts**: 17:05
+- **question**: (Takror) Faqat yana bir bor: nimaga men sizga kirishim kerak? · **purpose**: Yuzaki javobdan (muomala, tezlik) chuqurroq javobga undash · **ts**: 18:05
+- **question**: Bugun ishga qaytib nima qilishim kerak? · **purpose**: Maslahatni amaliy harakatga aylantirish · **ts**: 21:06
+- **question**: Avtomatizatsiya qo'yganmisiz? Nima bor (iiko(?))? · **purpose**: Mavjud tizim va asboblarni tekshirish · **ts**: 24:06
+- **question**: Velosipedni o'zingiz ixtiro qilasizmi yoki magazindan sotib olasizmi? · **purpose**: Tayyor yechim/maslahatchi xulosasiga olib kelish · **ts**: 25:07
+- **question**: Savolingizga javob oldingizmi? Qanaqa rezyume? · **purpose**: Mehmonning o'zi xulosa qilishi · **ts**: 29:09
+
+## Video 17 — “Razbor” 15-soni | $41 000 000 lik bozor | Alisher Isaev
+
+- **question**: Konkret nima qilasiz? O'zingiz import qilasizmi, chakanadami, boshqadami? · **purpose**: Biznesning qiymat zanjiridagi o'rnini aniqlash · **ts**: 01:00
+- **question**: Nima orqali, kim orqali sotasiz? Do'kon, optom, chakana, distribyutsiya? · **purpose**: Sotuv kanalini aniqlash; mehmonning «importyorman» degan da'vosini tekshirish · **ts**: 01:00
+- **question**: Brend o'zingiznikimi? · **purpose**: Mahsulot ustidan nazorat bor-yo'qligini bilish · **ts**: 02:01
+- **question**: Distribyutsiya bo'yicha mutaxassismizmi yoki do'kon yurgizish bo'yicha? · **purpose**: Kompetensiyani bo'g'inma-bo'g'in eliminatsiya qilish · **ts**: 04:01
+- **question**: Do'kondan kim olib ketadi? Ustalar bo'yicha mutaxassismisiz? · **purpose**: Mijoz segmenti va u bilan munosabatni tekshirish · **ts**: 04:01
+- **question**: Oxirgi mijoz bilan ham ishlaysizmi? Ularni taniysizmi? · **purpose**: Oxirgi mijozga yaqinlikni tekshirish · **ts**: 04:01
+- **question**: Usta nimaga aynan sizdan olyapti — faqat nima qolyapti? · **purpose**: Asl biznes modelini (nasiya) ochish · **ts**: 05:01
+- **question**: Pulingiz o'zingiznikimi yoki birovning pulini aylantiryapsizmi? · **purpose**: Kapital tuzilmasini bilish · **ts**: 05:01
+- **question**: Zapros nimada? Qayerga yugurmoqchisiz? · **purpose**: So'rovni strategiya savoliga aylantirish · **ts**: 06:02
+- **question**: Nasiya biznes aslida nimaga bog'liq? Nasiya bilan shug'ullangan odam nimani bilishi kerak? · **purpose**: Mavjud modelning asosiy kompetensiyasini (skoring) aniqlash · **ts**: 09:02
+- **question**: Nasiya biznesi sizga nimaga yoqmayapti? Kimdir vaqtida qaytarmayaptimi? · **purpose**: Og'riq nuqtasini aniqlash · **ts**: 09:02
+- **question**: Qanchalik siz yo'nalishingizni o'zgartirishga tayyorsiz? · **purpose**: Tayyorlik va resursni tekshirish · **ts**: 11:03
+- **question**: Demak bu biznesning kelajagi yo'q demoqchisiz? · **purpose**: Mehmonning o'zi xulosa aytishi · **ts**: 12:03
+- **question**: Qanchalik siz bu soha (lidgeneratsiya) bo'yicha chempionsiz? · **purpose**: Yangi yo'nalishdagi kompetensiyani tekshirish · **ts**: 12:03
+- **question**: Surxondaryoda reklamaga ehtiyoji bor korxonalarni qanaqa qilib topasiz? Nima qiymat beryapsiz? · **purpose**: Qiymat taklifini aniqlash · **ts**: 13:03
+- **question**: Reklama beradigan korxonalar kim? Nimaga ular aynan siz bilan ishlashi kerak? · **purpose**: Mijoz segmenti va farqlanishni ochish · **ts**: 14:04
+- **question**: Shaharda nechta billbord bor, nechtasi sizniki? · **purpose**: Bozor ulushini raqamda ko'rish · **ts**: 14:04
+- **question**: Konkurentlar oldida nima afzalligingiz bor? Nimada kuchlisiz? · **purpose**: Masshtablanadigan nuqtani mehmonning o'zidan chiqarish · **ts**: 15:04
+- **question**: Mijoz necha pulga tushayotganini hisoblab bera olasizmi ularga? · **purpose**: Kuchli tomonni CAC qiymat taklifiga aylantirish · **ts**: 15:04
+- **question**: Bu bilim sizda qayerdan? Nimaga boshqa odam shu narsani qila olmaydi? Lekin nega qilmaydi? · **purpose**: Ustunlikning himoyalanganligini tekshirish · **ts**: 17:04
+- **question**: Qancha vaqtda konkurentlar copy-paste qiladi va siz nima qila olasiz? · **purpose**: Raqobat javobini rejalashtirish · **ts**: 18:04
+- **question**: Buni qanday qilib Surxondaryo emas, avval O'zbekiston, keyin global chiqarish mumkin? Nima instrumentlaringiz bor? · **purpose**: Masshtab vositalarini aniqlash · **ts**: 18:04
+- **question**: U programma kimniki? · **purpose**: Texnologik bog'liqlikni aniqlash · **ts**: 19:06
+- **question**: Programmaning ekskluziv distribyutori bo'la olasizmi? Xitoy bilan shunday gaplasha olasizmi? · **purpose**: Bog'liqlikni ustunlikka aylantirish · **ts**: 19:06
+- **question**: O'zbekistonda nechta ekran bor? Necha pullik bozor bor? · **purpose**: Bozor hajmini baholash · **ts**: 20:07
+- **question**: Har bir ekranga programma sotsangiz, necha puldan to'lash mumkin sizga? · **purpose**: Obuna modelining iqtisodini o'ylatish · **ts**: 21:07
+- **question**: Keyin nima qilasiz? (joylarni sotib yuborgandan keyin) · **purpose**: Exit-g'oyani asl strategiyaga qarshi tekshirish · **ts**: 21:07
+- **question**: Xulosangiz? Nima oldingiz? Keyingi qadamlar? Nima qilasiz? · **purpose**: Mehmonni majburiyat aytishga undash · **ts**: 24:08
+- **question**: (Zal taklifiga) Nima beradi bu? Nima bilan kiryapsiz? · **purpose**: Kanal g'oyasidan oldin qiymat taklifini talab qilish · **ts**: 26:08
+
+## Video 18 — «Razbor» 14-soni | Xodim qidirmang, natija qidiring! | Alisher Isaev
+
+- **question**: Nechta do'koningiz bor? · **purpose**: Biznes hajmini raqamda aniqlash · **ts**: 01:00
+- **question**: A zapros nimada? Nega keldingiz? · **purpose**: So'rovni mehmonning o'z so'zlari bilan olish · **ts**: 01:00
+- **question**: Kelishuv degani nima — qanaqa kelishuv? · **purpose**: Noaniq so'rovni aniq ma'noga keltirish (zakupda arzon olish) · **ts**: 02:00
+- **question**: Strukturangizni tushuntirib bering — nechta sheriksiz? Siz kimsiz? Tagingizda qaysi bo'limlar bor? · **purpose**: Tashkiliy xaritani chizish, kim nimaga javob berishini ko'rish · **ts**: 03:01
+- **question**: Strukturangiz bor, yaxshi. Buyog'iga qayerda qiynalyapsiz? · **purpose**: Kuchli tomonni tan olib, og'riqli nuqtaga o'tish · **ts**: 05:02
+- **question**: Ya'ni muammo — kadr yo'q, tezroq kadr olish kerak — to'g'ri tushunyapmanmi? · **purpose**: Muammoni qayta formulirovka qilib tasdiqlatish · **ts**: 07:03
+- **question**: Bu HR'chilar kim, qayerdan kelgan? · **purpose**: HR kompetensiyasi manbasini bilish · **ts**: 07:03
+- **question**: Bizda yollash muammosimi, ishlash muammosimi yoki CEO muammosimi? · **purpose**: Kadr muammosini 3 turkumdan biriga joylash · **ts**: 08:04
+- **question**: Qo'rquv nimada? · **purpose**: Qarorlarga ta'sir qilayotgan emotsional to'siqni ochish (aldanish tajribasi) · **ts**: 08:04
+- **question**: HR menejerga yetarli qurol berganmisiz? Nima deb e'lon bersin, nima va'da qilsin, siz qanday sharoit yaratgansiz? · **purpose**: Mas'uliyatni HR'dan rahbarga qaytarish, EVP mavjudligini tekshirish · **ts**: 09:04
+- **question**: Eng zo'r HR kim — psixologlarmi? Sizga travmasiz odam kerakmi? · **purpose**: Mavjud filtr to'g'ri narsani o'lchayaptimi — tekshirish · **ts**: 10:05
+- **question**: Qila olaman degan xodim va qilganman degan xodim — qaysi biri bizga qiziq? · **purpose**: Mehmonni o'zi natijaga yo'naltirilgan javobga olib kelish · **ts**: 13:05
+- **question**: Bizga kim kerak? Yaxshi odam kerakmi yoki natija kerakmi? · **purpose**: Qidiruv obyektini aniqlash · **ts**: 15:06
+- **question**: Mana bitta lavozimni ayting. · **purpose**: Abstrakt muhokamadan konkret lavozimga tushish · **ts**: 17:07
+- **question**: Rivojlanish bo'limidan qaysi ko'rsatkichni kutyapsiz? · **purpose**: Lavozimning natija mezonlarini chiqarish va aralash funksiyalarni ko'rish · **ts**: 18:07
+- **question**: Do'konning ichini kim qiladi, kim boshqaradi? · **purpose**: Yashirin lavozimni (prorab) aniqlash · **ts**: 20:07
+- **question**: Qilganman degan lokatsiya menejeri hozir qaysi tarmoqda ishlayapti? · **purpose**: Rekruting manbasini aniqlash · **ts**: 21:08
+- **question**: Bu menejer O'zbekistonda bo'lishi shartmi? Masofadan qilinadigan ish emasmi? · **purpose**: Lavozimni chet el ekspertizasi + mahalliy ijroga bo'lish imkonini ko'rish · **ts**: 22:08
+- **question**: Prorabdan nima natija xohlaysiz? · **purpose**: Natija mezonlarini (vaqt, byudjet, loyiha) chiqarish · **ts**: 25:10
+- **question**: Xo'jayin, qayerdan qidiray? Qaysi qurilish kompaniyasi vaqtida qurib beryapti? · **purpose**: Rahbarni rekruterga konkret target-ro'yxat berishga majburlash · **ts**: 26:10
+- **question**: O'sha yerda ishlagan prorabni olsam sizga qiziq bo'larmidi? · **purpose**: Texzadaniyeni tasdiqlatish · **ts**: 27:10
+- **question**: Xodimlar qismi tushunarli bo'ldimi? · **purpose**: Bir zaprosni yopib, keyingisiga o'tish · **ts**: 30:11
+- **question**: Sizning do'koningiz postavshik butun biznesining necha foizini tashkil qiladi? · **purpose**: Muzokaradagi kuch nisbatini raqamda ko'rsatish · **ts**: 32:11
+- **question**: Oddiy kichkina do'konga 100 so'mga berayotgan mahsulotni sizga necha pulga beryapti? · **purpose**: Hozirgi chegirmani kuchingizga nisbatan baholash · **ts**: 33:12
+- **question**: Bularning alternativi, konkurenti bormi? Postavshik-2 bormi? A nega o'ynatmaysiz? · **purpose**: Alternativ va raqobatdan leverage topish · **ts**: 35:12
+- **question**: Ozarbayjonda yoki boshqa joyda shu kompaniya necha foiz beradi? · **purpose**: Qarshi tomon chegirma siyosatini (ichki cheklov) aniqlash · **ts**: 36:13
+- **question**: Shartini qanaqa qilib bajarasiz? Oyga qancha do'kon ochyapsiz? Postavshik buni biladimi? · **purpose**: Shartni o'sish rejasi bilan argumentga aylantirish · **ts**: 37:14
+- **question**: Konkurentingizga, distribyutorga eng katta berayotgan skidka nechchi — bilasizmi? · **purpose**: Kichik yutuqdan qoniqmaslik, haqiqiy minimum narxni topish · **ts**: 39:15
+- **question**: Bugun nima oldingiz? Ikkita zapros bilan keldingiz — nima olib ketyapsiz, nima qilishni boshlaysiz? · **purpose**: Mehmonning o'zi xulosa qilishi va majburiyat olishi · **ts**: 44:20
+- **question**: Ichki qo'rquvlar bo'lishi mumkin deyapsiz, to'g'rimi? · **purpose**: Risk savolini asoschi qo'rquviga qaytarish · **ts**: 45:20
+
+## Video 19 — «Razbor» 13-soni | Hech qachon bir vaqtda ikkita biznes qilmang! | Alisher Isaev
+
+- **question**: Bu yangi mashinalarmi? Qayerdan olib kelasiz? · **purpose**: Biznesning turini aniqlash · **ts**: 02:00
+- **question**: Siz o'zingiz pulingizni tikmaysizmi? · **purpose**: Biznes modeli va kapital riskini aniqlash · **ts**: 02:00
+- **question**: Hozirgi mijozlarni qayerdan topasiz? · **purpose**: Mijoz manbalarini aniqlash — birinchi diagnostik savol · **ts**: 03:01
+- **question**: Kontentingiz qanaqa? Uning biznesga nima aloqasi bor? · **purpose**: Ijtimoiy tarmoq sotuvga xizmat qiladimi — tekshirish · **ts**: 04:02
+- **question**: Maqsad nima hozir? · **purpose**: So'rovni aniqlashtirish · **ts**: 05:04
+- **question**: Siz fiz litsosizmi? Biznes sifatida yur litso qanaqa? · **purpose**: Masshtab va ishonch uchun yuridik shaklni tekshirish · **ts**: 05:04
+- **question**: Bir oyda nechta mashina zakaz olasiz? · **purpose**: Hajmni summa emas, dona bilan o'lchash · **ts**: 06:05
+- **question**: Qanaqa qilib buncha hajmni bitta o'zingiz eplayapsiz? Komandangiz bormi? · **purpose**: Sig'im va jamoani tekshirish · **ts**: 06:05
+- **question**: Savdo bo'limingiz bormi? Varonkalar ishlaydimi? Kuniga nechta qo'ng'iroq tushadi? · **purpose**: Tizim va lid oqimini tekshirish · **ts**: 07:05
+- **question**: Qanaqa qilib 10–20 ta zakaz olasiz? Qayerdan? · **purpose**: Raqam nomuvofiqligi orqali yashirin kanalni ochish · **ts**: 07:05
+- **question**: Treyderlar necha foiz, fiz litso necha foiz? · **purpose**: Segment ulushlarini aniqlash · **ts**: 08:05
+- **question**: Nima tizim qurmaysiz? · **purpose**: Mehmonni tizim yo'qligini tan olishga undash · **ts**: 09:06
+- **question**: Reklamaga qancha ishlatasiz? Qancha zayavka tushadi? Necha foizi vozdux, necha foizi kachestvenniy lid? · **purpose**: Reklama kanalining samaradorligini o'lchash · **ts**: 10:06
+- **question**: Nechta eski mijozingiz bor? · **purpose**: Baza mavjudligi va hajmini aniqlash · **ts**: 11:08
+- **question**: Nechta shunaqa tanishingiz bor? Taxmin qiling. · **purpose**: Uchot yo'q bo'lsa taxmin orqali raqam olish · **ts**: 12:09
+- **question**: Tanish orqali qanchasi, reklama orqali qanchasi keladi? · **purpose**: Ishlaydigan va ishlamaydigan kanallarni ajratish · **ts**: 13:10
+- **question**: Bular sizga har safar yangi mijoz olib keladimi? 100 ta 101 ta bo'lib qoldimi? · **purpose**: Tavsiya mexanizmini va bazaning o'sishini ko'rsatish · **ts**: 14:10
+- **question**: Nima qilib buni ko'paytirsak bo'ladi? · **purpose**: Mehmonning o'zi yechim topishi · **ts**: 15:10
+- **question**: Hozir zapros nima — kolichestvoni ko'paytirishmi? · **purpose**: E'tirozdan keyin so'rovni qayta aniqlashtirish · **ts**: 15:10
+- **question**: Chimkentda bir oyda o'z puliga mashina oladigan nechta odam bor? · **purpose**: Bozor hajmini taxminlash · **ts**: 16:11
+- **question**: Ular qayerda yurishibdi? Qayerdan olishyapti? · **purpose**: Raqobatchilardagi mijozlar manbasini topish · **ts**: 17:11
+- **question**: 30 ta mashina sotmoqchimiz — bu yerda nechta odam bo'lishi kerak? 60 ta? 600 ta? · **purpose**: Mehmonga kerakli baza hajmini o'zi hisoblatish · **ts**: 17:11
+- **question**: Nimaga kerak bu narsani bilish? Nimaga analitika kerak? · **purpose**: CRM qiymatini mehmonga anglatish · **ts**: 20:15
+- **question**: Burj Xalifani sizsiz qurishganmi? · **purpose**: Ishonchsizlik va delegatsiya to'sig'ini buzish · **ts**: 21:15
+- **question**: Yana nima muammo ko'ryapsiz bu yerda? · **purpose**: Qolgan masalalarni yig'ish · **ts**: 23:16
+
+## Video 20 — “Razbor” 12-soni | Eksportga chiqmoqchi bo'lgan tadbirkorlar ko‘rishi shart! | Alisher Isaev
+
+- **question**: Qaysi? Shunaqa yoziladimi? · **purpose**: Kompaniya nomini aniq qayd qilish · **ts**: 01:12
+- **question**: Kassalar? POS? ... Bu medtexnika emas? · **purpose**: Soha chegarasini aniq ajratish · **ts**: 01:12
+- **question**: Kim mijozingiz? Kimga sotasiz? Qaysi laboratoriyalar? Davlat laboratoriyalari? · **purpose**: Mijoz segmentini aniqlash · **ts**: 02:17
+- **question**: Davlat tashkilotlari necha foiz, xususiy tashkilotlar necha foiz? · **purpose**: Mijozlar strukturasini raqamga aylantirish · **ts**: 02:17
+- **question**: Kim bu kompaniyalar asosan, qaysi industriya — mebel, oziq-ovqat? · **purpose**: Talabning kelib chiqishini tushunish · **ts**: 03:22
+- **question**: Nechta laboratoriya bor butun O'zbekiston bo'yicha? Nechtasi bilan ishlaysiz? · **purpose**: Bozor hajmi va qamrovni o'lchash · **ts**: 03:22
+- **question**: Konkurentlaringiz bormi? Nimaga sizdan olishadi? · **purpose**: Qiymat taklifini aniqlash · **ts**: 03:22
+- **question**: Mijozlarni qayerdan topasiz? Eshikni taqillatib-mi? Internetdan? · **purpose**: Lid kanalini aniqlash (kiruvchi vs chiquvchi) · **ts**: 04:46
+- **question**: Call-centringiz bormi? Nechta xodim? Nechta zayavka tushadi kuniga? Nechtasi oladi? · **purpose**: Sotuv voronkasi va konversiyani o'lchash · **ts**: 04:46
+- **question**: Konkurensiya unaqa katta emas deb qabul qilsam, to'g'ri bo'ladimi? · **purpose**: Gipotezani mehmon bilan tekshirish · **ts**: 05:50
+- **question**: Nimaga o'zlari chiqyapti sizga, konkurensiya katta bo'lsa? · **purpose**: Asosiy qiymatni (narx) ochish · **ts**: 05:50
+- **question**: 400 taga o'zingiz chiqmagansiz hech qachon? Nimaga? Nimaga eksportga vaqtingiz bo'ladi? · **purpose**: Ichki bozordagi foydalanilmagan imkoniyat va fokus qarama-qarshiligini ko'rsatish · **ts**: 05:50
+- **question**: Shu kungacha qaysi davlatga sotyapsiz? Nimaga sota olmayapsiz? · **purpose**: Eksportdagi haqiqiy holat va to'siqni aniqlash · **ts**: 05:50
+- **question**: Nimaga Xitoydan pryamoy qilmaysiz? · **purpose**: Muqobil logistika yo'lini tekshirish · **ts**: 08:13
+- **question**: In Test — bu O'zbekiston brendimi? Tegi qayerda? · **purpose**: Brend kelib chiqishini aniqlash · **ts**: 08:13
+- **question**: Dunyoda qaysi laboratoriyalar kuchli hisoblanadi? Nimaga Xitoy deb tanladingiz? · **purpose**: Toifadagi kuchli «made in»ni mehmonga o'zi aytdirish · **ts**: 08:13
+- **question**: Made in Germany osh yeysizlarmi? Made in Uzbekistan osh-chi? · **purpose**: «Made in» toifaga bog'liqligini zal bilan isbotlash · **ts**: 09:56
+- **question**: Ikkinchi to'sqinlik nima deb bilyapsiz? Nima yetmayapti sizda? · **purpose**: Keyingi to'siqni mehmonga o'zi topdirish · **ts**: 14:28
+- **question**: Qozog'istonga kirishim uchun birinchi jamoa yig'ish uchun nima qilishim kerak? · **purpose**: O'z misoli orqali algoritmni mehmonga o'ylatish · **ts**: 15:58
+- **question**: Nomer bir korxona topdim. Nima qilaman keyin? · **purpose**: Algoritmning keyingi qadamini mehmondan chiqarish · **ts**: 15:58
+- **question**: Siz sotuv bilan shug'ullanishingiz kerak emas, siz nima bilan shug'ullanishingiz kerak? · **purpose**: Tadbirkor rolini mehmonga o'zi aytdirish · **ts**: 17:29
+- **question**: Belarusda nomer bir kim sizda? (yoki istalgan bozor) · **purpose**: Chempion kompaniyani aniqlash · **ts**: 19:43
+- **question**: Necha pul turadi bu kadr? Soatiga necha pul? · **purpose**: Top-kadr narxini arzonligini hisoblatish · **ts**: 19:43
+- **question**: Necha pul to'laysiz ROP'ga? · **purpose**: Xarajatni realistik baholash · **ts**: 22:17
+- **question**: ROP oldingiz. Endi savol: yana nima qilishingiz kerak? · **purpose**: Delegatsiyadan keyin tadbirkorga qolgan ish oz ekanini ko'rsatish · **ts**: 22:17
+- **question**: Qanchalik ko'zingiz yetyapti eksportga tezroq chiqib ketishga? · **purpose**: Mehmonning ishonchini tekshirish · **ts**: 24:50
+- **question**: Bu CRM kimniki bo'lishi kerak? Distribyutornikimi? Siznikimi? · **purpose**: Mijoz bazasi nazorati masalasini ochish · **ts**: 26:00
+- **question**: Kichkina xulosa qiling. Qoniqdingizmi yoki yana chuqurlash kerak bo'lgan joy bormi? · **purpose**: Razbor natijasini tekshirish · **ts**: 26:00
+- **question**: Nechta davlatda xodiming bor? Qanchalik eplay olasan o'zing kadr shakllantirishni? · **purpose**: Top-menejer nomzodini baholash · **ts**: 31:26
+- **question**: Qayerdan qidirasiz? · **purpose**: Kadr qidirish kanalini aniqlash · **ts**: 33:37
+
+## Video 21 — “Razbor” 11-soni | Xodimlar sonini oshirmasdan x10 kengayish | Alisher Isaev
+
+- **question**: Nega unaqa har xil-har xil yo'nalish? · **purpose**: Fokussizlikni tekshirish · **ts**: 01:18
+- **question**: Zapros nima? Nimani kengaytirmoqchisiz? · **purpose**: So'rovni aniqlash va o'lchanadigan maqsadga keltirish · **ts**: 02:29
+- **question**: Mijozga nima beryapsiz? Men potensial mijozingizman — menga nima berasiz? · **purpose**: Qiymat taklifini mijoz nuqtai nazaridan ochish · **ts**: 02:29
+- **question**: Qiymat topishga yordam berasizmi yoki aytgan narsasini qilib berasizmi? · **purpose**: Bajaruvchi yoki strateg ekanini aniqlash · **ts**: 04:21
+- **question**: Menga mijozni qayergacha olib kelasiz? Probniy uchrashuvgacha? · **purpose**: Voronkadagi javobgarlik chegarasini aniqlash · **ts**: 05:33
+- **question**: Savdoni o'zinglar ham o'lchaysizlarmi? Qayta sotuv bilan shug'ullanasizlarmi? Tavsiyagacha borasizlarmi? · **purpose**: Voronkaning oxirgi bosqichlari qamrovini tekshirish · **ts**: 05:33
+- **question**: Nimaga sizdan olishim kerak? Nima qiymat beryapsiz kompaniya sifatida? Yana nima? · **purpose**: Raqobatchilardan farqni oxirigacha chiqarish · **ts**: 06:51
+- **question**: Siz ham 1 dollardan lid olib kelib mijozni 10 dollar qilasizmi yoki arzonroq olib bera olasizmi? · **purpose**: Xizmatni CAC tilida baholatish · **ts**: 08:02
+- **question**: Nimaga kerak bu narsa sizga (savdoga aralashish)? · **purpose**: Xizmat doirasi kengayishining sababini bilish · **ts**: 08:02
+- **question**: Nechta podpischiklaringiz? Nimaga sapojnik bez sapog? · **purpose**: Agentlikning o'z marketingini tekshirish · **ts**: 09:52
+- **question**: Orqa strukturangiz qanaqa? Har bo'g'inda nechta odam? Bitta PMda nechta SMM? · **purpose**: Tuzilma va resursni raqamda ko'rish · **ts**: 09:52
+- **question**: Shu komanda bilan nechta mijoz eplolaysiz? Hozir nechta mijozingiz bor? · **purpose**: Sig'im va yuklanishni (peregruz) aniqlash · **ts**: 09:52
+- **question**: 7 ta dizayner / 3 ta operator / montajor / targetolog 56 ta mijozga yetadimi? · **purpose**: Tor bo'g'izni rolma-rol aniqlash · **ts**: 12:37
+- **question**: Nimani masshtabirovat qilmoqchisiz? Nima yechim bor? · **purpose**: Biznes model odamga bog'liqligini ko'rsatish · **ts**: 12:37
+- **question**: Buni qonsiz qilishning nima yo'li bor? · **purpose**: Resursga bog'liq bo'lmagan o'sish nuqtasini izlatish · **ts**: 12:37
+- **question**: O'rtacha chekni necha pul qila olasiz? · **purpose**: Narx oshirish imkonini baholash · **ts**: 15:09
+- **question**: 62 emas, 620 mijozni xodimlarni oshirmasdan oshiradigan nima yo'li bor? · **purpose**: x10 fikrlashga majburlash · **ts**: 15:09
+- **question**: (Zalga) Shuncha aqlli tadbirkorlar kelgan. Nima variantlar bor? · **purpose**: Kollektiv g'oya yig'ish · **ts**: 16:23
+- **question**: Qayerda sun'iy intellekt ishlatishingiz mumkin? Qanchaga oshira olasiz? · **purpose**: AI samarasini aniq joy va raqamga bog'lash · **ts**: 16:23
+- **question**: Bitta SMMchi 4 ta olib ketyapti. Nimaga 40 ta emas? · **purpose**: Unumdorlik chegarasini so'roq qilish · **ts**: 16:23
+- **question**: SMM kontentni / dizaynni / operatorni / montajorni / targetologni AI qila oladimi? · **purpose**: Rolma-rol AI auditi · **ts**: 17:34
+- **question**: 62 ta mijozni qayerdan topgansiz? Kim orqali? · **purpose**: Mijoz manbasini aniqlash · **ts**: 19:45
+- **question**: Ijtimoiy tarmoqda chiqdingiz — nega men sizga ishonishim kerak? · **purpose**: Ishonch mexanizmini aniqlash · **ts**: 19:45
+- **question**: O'zbekistonda nechta mijoz qila olasiz? Potensial qancha, bozor qancha? · **purpose**: Ichki bozor potensialini baholash · **ts**: 19:45
+- **question**: 300 ta uchun 15 operator, 15 montajor, 10 targetolog kerak — qila olasizmi? Problema emasmi shuncha odam olish? · **purpose**: Yollash imkoniyatini tekshirish · **ts**: 21:10
+- **question**: Tashqi bozorga chiqsangiz, qaysi xodim o'sha bozorda bo'lishi kerak? · **purpose**: Filial tuzilmasini rejalash · **ts**: 21:10
+- **question**: U yerda zararsizlik nuqtasi qancha? Nechta mijozdan keyin ofis o'zini qoplaydi? · **purpose**: Filial iqtisodini tekshirish · **ts**: 22:58
+- **question**: Bitta mijoz sizga O'zbekistonda necha pulga tushyapti? Turkiyada qanchaga tushadi deb o'ylaysiz? · **purpose**: CAC farqini anglatish · **ts**: 22:58
+- **question**: Korporativ qadriyatlar, falsafa, oliy maqsadingiz bormi? · **purpose**: Masshtablanadigan madaniyat bor-yo'qligini bilish · **ts**: 25:18
+- **question**: Madaniyatni masshtablashda nimalarga ahamiyat berishimiz kerak? · **purpose**: Mehmonni demarkazlashtirish g'oyasiga olib kelish · **ts**: 30:29
+- **question**: Qayerda oxirgi xodim tufayli korxona haqida fikrimiz o'zgargan? Kimda bor bu keyslar? · **purpose**: Zalni misol bilan jalb qilish · **ts**: 35:35
+- **question**: Ofitsiantga ichki falsafani qanaqa qilib yetkaziladi? · **purpose**: Madaniyatni uzatish mexanizmini so'rash · **ts**: 37:02
+- **question**: Savollar qolgan bo'lsa ayting. · **purpose**: Yakunlash · **ts**: 44:19
+
+## Video 22 — $100 000 lik onlayn do'kon | "Razbor" 10-soni | Alisher Isaev
+
+- **question**: Ya'ni bu kiyim-kechak bozor — onlayn? (dehqoncha qilib — bir Uzum, faqat kiyimga?) · **purpose**: Missiya tilini oddiy kategoriyaga tushirish · **ts**: 03:21
+- **question**: Mahsulotni kimdan olasizlar? · **purpose**: Ta'minot zanjirini va mol egasini aniqlash · **ts**: 03:21
+- **question**: Bu marketplace emas, onlayn magazin bo'lyapti, to'g'ri tushundimmi? Marketplace ham desangiz 'to'ppa to'g'ri', onlayn magazin ham? · **purpose**: Model turi bo'yicha ziddiyatni ochish · **ts**: 03:21
+- **question**: Ularning brendini sotyapsizmi yoki o'zingizning brendingiz ostida? · **purpose**: Brend egaligi va qiymat qayerda ekanini bilish · **ts**: 06:02
+- **question**: Mijozingiz kim? Qaysi segment — o'rta, premium? · **purpose**: Segmentni aniqlash · **ts**: 06:02
+- **question**: Zapros nimada? Nima kutyapsiz bugungi suhbatdan? · **purpose**: So'rovni formulirovka qilish · **ts**: 06:02
+- **question**: Nima risklar ko'ryapsizlar bu biznesda? (zalga) · **purpose**: Auditoriyani jalb qilish, ostatka muammosini chiqarish · **ts**: 06:02
+- **question**: Hech kim tanimaydigan brend, hech kim tanimaydigan magazin — nimaga odam kirishi kerak? · **purpose**: Qiymat taklifini tekshirish · **ts**: 08:21
+- **question**: Anketani to'ldirib, rasmingizni yuborishga tayyormisiz? Kim tayyor — qo'l ko'taring. · **purpose**: Talab va mijoz harakati to'sig'ini jonli o'lchash · **ts**: 09:24
+- **question**: Bizga kelganda nima yutiladi, kelinmasa nima yutqiziladi? · **purpose**: Mijozning kelish motivatsiyasini topish · **ts**: 10:30
+- **question**: Nimaga aynan sizga? Millionta do'kon bor — nimaga sizdan olishim kerak? · **purpose**: Farqlovchi qiymatni talab qilish · **ts**: 10:30
+- **question**: Sarmal brendini nechta odam taniydi? Trendyol'ni-chi? Farqini kim biladi? Kim xarid qilgan, qayta xarid, tavsiya? · **purpose**: CJM voronkasining har bosqichini zalda o'lchash · **ts**: 13:11
+- **question**: Biz hozir qayerda yiqilamiz (qop qilamiz)? · **purpose**: Voronkadagi uzilish nuqtasini topish · **ts**: 16:54
+- **question**: Kim bo'lib tanilmoqchimiz? Nimaga bizdan olish kerak, shuncha magazin turgan joyda? · **purpose**: Pozitsiyalashni aniqlash · **ts**: 17:56
+- **question**: Nimaga unaqa strategiya? Nimaga ishonyapsizlar? Kimga ishonyapsizlar? · **purpose**: Notanish brendlar strategiyasining asosini so'roq qilish · **ts**: 17:56
+- **question**: Kuniga nechta zakaz tushyapti? · **purpose**: Hozirgi hajmni bilish · **ts**: 19:18
+- **question**: Zararsizlik nuqtasi qancha — kuniga nechta zakaz bo'lsa yetib borasiz? · **purpose**: Unit-ekonomika va bo'shliqni o'lchash · **ts**: 19:18
+- **question**: Nechta xodim? · **purpose**: Xarajat tuzilmasini tushunish · **ts**: 19:18
+- **question**: Loyihangizning dunyoda analogini ko'rsating. · **purpose**: Chempion/B nuqtani topish va solishtirish · **ts**: 19:18
+- **question**: Ular nima qilgan? Marketplace'mi yo onlayn magazinmi? Nimadan pul topishadi? · **purpose**: Analog biznes modelini tahlil qilish · **ts**: 23:43
+- **question**: Kiyimni kim beradi? Kim puliga? Omborga kim pul tikadi? · **purpose**: Analog modelida kapital va ostatka kimda ekanini aniqlash · **ts**: 23:43
+- **question**: Siz o'zingiz operatsionkada yurmaysiz-a? Boshqa odam boshqaradi? · **purpose**: Founder operatsiyani bilish-bilmasligini tekshirish · **ts**: 23:43
+- **question**: Operatsion menejeringiz bormi hozir oldingizda? · **purpose**: Javob bera oladigan odamni topish · **ts**: 25:38
+- **question**: Molni kim beradi? Molning egasi kim? · **purpose**: Biznes model skeletini tuzish · **ts**: 25:38
+- **question**: Kimning puliga olib kelinyapti ombordagi mahsulot? · **purpose**: Kapital riskini aniqlash · **ts**: 26:49
+- **question**: Ombordagi mol kimniki — sizniki yo birovniki? Ishlab chiqaruvchi ikki dona bermaydi — treyder, optimchi yo chakanachi? · **purpose**: Mol egaligi va zanjirdagi o'rinni aniqlash · **ts**: 28:15
+- **question**: IP nimaligini tushunasizmi? · **purpose**: Jargon ortidagi bilimsizlikni ochish · **ts**: 28:15
+- **question**: Fabrikadan bitta dona qanaqa qilib olmoqchisiz? · **purpose**: Modelning amaliy imkonsizligini ko'rsatish · **ts**: 28:15
+- **question**: Siz qayerdasiz bu modelda (fabrika–optimchi–chakana–iste'molchi)? · **purpose**: Qiymat zanjiridagi bo'g'inni aniqlash · **ts**: 32:57
+- **question**: Qayerda muammo ko'ryapmiz shu ikki zanjir orasida? (zalga) · **purpose**: Yangi modelning xavflarini birga topish · **ts**: 36:21
+- **question**: Dizaynerlar, stilistlar bormi? · **purpose**: Asosiy kompetensiya mavjudligini tekshirish · **ts**: 37:35
+- **question**: Stitch Fix qanaqa ishlayapti? Bilasizmi? · **purpose**: Founder chempionni o'rganganini tekshirish · **ts**: 40:50
+- **question**: Kim zakaz qilib ko'rgan? Nima muammo bo'lgan? (zalga) · **purpose**: Ostatka muammosining mijoz tajribasiga ta'sirini ko'rsatish · **ts**: 40:50
+- **question**: Oqimni qanaqa ta'minlamoqchisiz? · **purpose**: Konsignatsiya modelining shartini tekshirish · **ts**: 42:22
+- **question**: Qanaqa qilib olib kelmoqchisiz? Bitta mijozning narxi necha pul? O'lchaganmisiz? · **purpose**: CAC'ni bilish · **ts**: 42:22
+- **question**: Sizga nechta mijoz kerak? Bazangizda qancha mijoz bor? · **purpose**: Baza va maqsadni solishtirish · **ts**: 42:22
+- **question**: Startapga necha pul tikdingiz shu kungacha? · **purpose**: CAC × baza bilan solishtirish uchun · **ts**: 43:36
+- **question**: Qachondan beri ishlayapsiz? Oyiga qancha ketyapti — reklamaga? · **purpose**: Burn rate va marketing xarajatini bilish · **ts**: 43:36
+- **question**: Stitch Fix'da bormi u model? Nimaga o'ylab topyapsiz keyingisini? · **purpose**: Fokussiz qo'shimcha g'oyalarni to'xtatish · **ts**: 44:36
+- **question**: V chyom vash zarabotok? Kak marketplace, kak onlayn-magazin? Tovar na vashem sklade? WMS yest'? Kakoy byudzhet na reklamu? Skol'ko obkhoditsya klient? Kto znayet eti tsifry? · **purpose**: Operatsion menejer orqali model va raqamlarni tekshirish · **ts**: 47:39
+- **question**: Xulosa qanaqa? Qanaqa qilib yechish kerak fabrika muammosini? · **purpose**: Mehmonni o'zi yechimga olib kelish · **ts**: 58:53
+- **question**: Maslahatchi topishni biladigan odamga topshirish kerakmi yoki o'zingiz xat yozib o'tirasizmi? · **purpose**: Delegatsiya tamoyilini mehmonga o'zi aytdirish · **ts**: 1:01:55
+- **question**: Rozi bo'ladimi? Katta pulmi? Soatlik olsak bo'ladimi? Eng zo'r mutaxassis necha pul topyapti? · **purpose**: Maslahatchi narxini hisob bilan real ko'rsatish · **ts**: 1:03:32
+
+## Video 23 — “Razbor” 9-soni | B2B yo'nalishida o‘sish nuqtasi | Tibbiyot sohasi | Alisher Isaev
+
+- **question**: Qanaqa ishlaydi bu narsa? Ozgina gapirib bering ijarani. · **purpose**: Biznes modelini tushunish · **ts**: 01:05
+- **question**: Bunga litsenziya kerakmi? Qonun bo'yicha regulirovka qilinmaydimi? · **purpose**: Huquqiy risk va bozor holatini aniqlash · **ts**: 02:20
+- **question**: Zapros nimada? B2B'da kimga nima qilmoqchisiz? · **purpose**: So'rovni aniq formulirovka qilish (kengayish/o'sish) · **ts**: 03:34
+- **question**: Mijoz to'layotgan yuz so'm puldan qanchasi medsestraga, qanchasi ijaraga ketyapti? Nima eng ko'p ketadi? · **purpose**: Pul qayerdan kelishini (asosiy daromad manbasini) topish (Alisher yoki zal — taxmin) · **ts**: 07:28
+- **question**: Qayerdan kelyapti bu mijoz hozir? Foizda? · **purpose**: Mijoz oqimining skeletini chizish · **ts**: 09:17
+- **question**: Bu qanaqa klinikalar? Nimaga ixtisoslashgan? Nechta xirurgiya bilan shug'ullanadigan klinika bor? Nechtasi bilan ishlayapsiz? · **purpose**: Kanal bozori va penetratsiyasini o'lchash · **ts**: 10:29
+- **question**: Bitta klinika oyiga nechta odam yuboryapti? Ular oyiga nechta sizga kerak bo'lgan kasalni ko'ryapti? · **purpose**: Ulushni (2-3 / 60-90) ko'rsatish · **ts**: 10:29
+- **question**: Necha pul beradi o'rtacha bitta mijoz? · **purpose**: Kanalni pulga aylantirish · **ts**: 12:34
+- **question**: 3 tani nechta qilishimiz mumkin? 10 ta qila olamizmi? Hammasini menga yuboring desak, 75 tadan qanchasini yuboradi? · **purpose**: O'sish ssenariysini modellash · **ts**: 13:34
+- **question**: OLX'da nechta odam prosmotr qilyapti? Nechtasi aloqaga chiqyapti? Nechtasi xarid qiladi, nechtasi o'ylab ko'raman deydi? O'rtacha chek? · **purpose**: Onlayn kanal voronkasini o'lchash · **ts**: 16:40
+- **question**: Nimaga u yoq yuzda? Klinika orqali chiqqani qimmatga tushyaptimi? · **purpose**: Kanallar orasidagi chek farqini tushunish · **ts**: 17:42
+- **question**: Nega o'zingizning raqamlaringizni bilmayapsiz? · **purpose**: Tadbirkor taxminlari bilan haqiqiy raqamlar farqini ko'rsatish · **ts**: 18:51
+- **question**: Prosmotrlarni oshirish uchun instrumentlar bormi? Qanchaga oshirsak bo'ladi? Konversiyani oshirsa bo'ladimi? Sredniy chek-chi? · **purpose**: Kanalning shiftini topish · **ts**: 19:56
+- **question**: Strategik nuqtai nazardan bu yerga fokus qilish to'g'rimi? Qayerga fokus qilishimiz kerak? · **purpose**: Fokusni mehmonning o'zi tanlashiga olib kelish · **ts**: 21:09
+- **question**: Hozir vrachlar bilan kim gaplashyapti? Peregovorni kim olib boryapti? · **purpose**: Sotuv resursini aniqlash · **ts**: 23:34
+- **question**: Dorilar qanaqa sotiladi? Kim naznacheniya qiladi? · **purpose**: Farm-model analogiyasi orqali LPRni ochish · **ts**: 23:34
+- **question**: Xirurg 'ikkita yo'ling bor' desa, katta ehtimol bilan patsient rozi bo'ladimi? · **purpose**: Tavsiyachi kuchini ko'rsatish · **ts**: 24:55
+- **question**: Nimaga xirurg sizga yuborishni xohlashi kerak? (otkatsiz) Nima yo'li bor? · **purpose**: Qiymat taklifini izlash — 'eng qiyin savol' · **ts**: 26:15
+- **question**: Xirurg pul olmasa rozi bo'lmaydi — shunaqa fikrdami hamma? · **purpose**: Umumlashtirishni sinash va sindirish · **ts**: 27:41
+- **question**: Pulsiz yo'llar bilan motivatsiya qilish yo'llarini topsa bo'ladimi? · **purpose**: Nomoddiy qiymatlarni izlashga undash · **ts**: 29:26
+- **question**: Demak, bizning biznesning mijozi kim? Bizni kimni ko'ndirishimiz kerak? · **purpose**: Haqiqiy mijozni (xirurg) aniqlash · **ts**: 31:38
+- **question**: Siz davlat klinikalari sharoitidan yaxshiroq sharoit qilib bera olasizmi? Xususiylardan-chi? · **purpose**: Qaysi segmentda raqobat ustunligi borligini aniqlash · **ts**: 31:38
+- **question**: Mana biz xirurgmiz. Nega sizga odam yuborishimiz kerak? Bizda ham koykalar bor-ku. Bizni ko'ndiring. · **purpose**: Rol o'yini orqali qiymat taklifi yo'qligini ko'rsatish · **ts**: 31:38
+- **question**: Nechta billboard oldidan o'tdingiz? Nechtasini eslab qoldingiz? · **purpose**: Billbord reklamasining samarasizligini o'zi his qilishi · **ts**: 37:24
+- **question**: Mijozning yo'l xaritasi (CJM) qanaqa? U rejalashtirib boradimi? · **purpose**: Ijtimoiy tarmoq reklamasi g'oyasini tekshirish · **ts**: 39:36
+- **question**: Xirurglar orasida musobaqa bormi? Santexniklar, sartaroshlar orasida-chi? Nimaga bu musobaqaning tashkilotchisi siz emassiz? · **purpose**: Yangi kontakt bahonasini mehmonning o'zi topishi · **ts**: 48:39
+- **question**: Emotsional bank hisobini oshirib turish uchun nimalar qilyapsizlar? · **purpose**: Mijoz bilan munosabat parvarishini tekshirish · **ts**: 49:48
+- **question**: Ikkita xirurg — radnoy ukangiz va begona. Kim ko'proq yuboradi? · **purpose**: Emotsional bank tushunchasini mustahkamlash · **ts**: 50:50
+- **question**: Kasalxona stoyankasida mashinalarga vizitka/listovka qo'yib chiqmaganmisizlar? · **purpose**: Arzon taktik kanallarni sinab ko'rilganini tekshirish (taxmin — Alisher yoki zal) · **ts**: 52:54
+- **question**: Qisqacha bir o'zingizdan xulosa? · **purpose**: Mehmonning o'zi xulosani shakllantirishi · **ts**: 57:18
+- **question**: Nechta xirurg bor? · **purpose**: Bozorni bilmaslikni ko'rsatish, uy vazifasi berish · **ts**: 57:18
+
+## Video 24 — “Razbor” 8-soni | Distributsiyaning kelajagi yo‘qmi? | Alisher Isaev
+
+- **question**: O'zingizni tanishtirasizmi? Nima bilan shug'ullanasiz? Nima biznesingiz? · **purpose**: Biznes tarixini va kontekstni boshidan olish · **ts**: 01:30
+- **question**: Uni (mahsulotni) qayerdandir olib kirgansiz-da? · **purpose**: Ta'minot zanjiridagi o'rnini (subdiler/diler) aniqlash · **ts**: 02:41
+- **question**: Hamma viloyatda komanda bormi? Portfelda nima mahsulot? Nechta agentingiz bor? · **purpose**: Biznes hajmi va sotuv kuchini o'lchash · **ts**: 05:52
+- **question**: 2003-yilda O'rikzor bozori Toshkent umumiy savdosining necha foizini qilardi? · **purpose**: Tarixiy baza nuqtasini o'rnatish · **ts**: 05:52
+- **question**: 2025-da O'rikzor umumiy shahar savdosining qanchasini qilyapti? Tarmoq necha foiz? · **purpose**: Bugungi kanal ulushlarini chiqarish, trendni ko'rsatish · **ts**: 09:36
+- **question**: Misol uchun 2030-da tarmoqning ulushi qancha bo'ladi deb o'ylaysiz? · **purpose**: Prognozni mehmonning o'zidan olish · **ts**: 09:36
+- **question**: Qozog'istonda necha foiz? · **purpose**: Benchmark bilan prognozni kalibrlash · **ts**: 11:01
+- **question**: Biz ham shunga qarab borishimiz ehtimoli bormi? · **purpose**: Mehmonni trendni qabul qilishga olib borish · **ts**: 11:01
+- **question**: Bular 50, 70, 90 foiz bo'lsa, optom necha foiz deb o'ylaysiz u paytda? Chakana qancha bo'ladi? · **purpose**: Mehmonning asosiy bozori qisqarishini o'ziga hisoblatish · **ts**: 11:01
+- **question**: Distribyutsiya — bu chakana asosan, to'g'rimi? · **purpose**: Mehmon biznesini qisqarayotgan segmentga bog'lash · **ts**: 12:23
+- **question**: Tarmoqda sotish funksiyasi bormi yo'qmi? · **purpose**: Funksiya dekompozitsiyasi — sotuv funksiyasi yo'qolishini ko'rsatish · **ts**: 12:23
+- **question**: Tarmoqqa har safar borib, oddiy chakana do'konga o'xshab «assalomu alaykum, nima olasiz?» deb borasizmi? · **purpose**: Yillik kontrakt = sotuv yo'qligini mehmonning o'z tajribasidan isbotlash · **ts**: 12:23
+- **question**: Ular markaziy omboridan boshqa filiallarga kimdir mol olib borib berishi kerakmi? O'sha kim kim bo'lishi mumkin deb o'ylaysiz? · **purpose**: Kelajakdagi rolni (outsourcing logist) mehmonga o'zi topdirish · **ts**: 14:01
+- **question**: Bozorda eng arzon olib boruvchi bo'lishingiz uchun siz nimada kuchli bo'lishingiz kerak? Qayerda chempion bo'lishingiz kerak? · **purpose**: Yangi model uchun zarur kompetensiyalarni aniqlash · **ts**: 14:01
+- **question**: O'z omborlaringiz bo'lishi kerakmi? Mashinalaringiz ko'p bo'lishi kerakmi? Temir yo'l vetkasi bo'lishi kerakmi? · **purpose**: Logistika chempioni bo'lish uchun zarur aktivlarni sanash · **ts**: 16:14
+- **question**: Havasga borib «faqat Toshkent bo'yicha» desangiz gaplashadimi, «O'zbekistonning lyuboy nuqtasiga» desangiz-chi? · **purpose**: Qiymat taklifini mijoz nigohidan sinash · **ts**: 16:14
+- **question**: Nimaga hozir konkurensiyaga chidamasdan hattoki Magnum chiqib ketdi? Carrefour chiqib ketdi. Nimangiz zo'r? · **purpose**: Ritailga kirish g'oyasini raqobat ustunligi bilan sinash · **ts**: 19:30
+- **question**: Do'kondagi uchta asosiy muvaffaqiyat omili nima edi? · **purpose**: Lokatsiya hal qiluvchi ekanini va u egallanganini ko'rsatish · **ts**: 19:30
+- **question**: Tarmoqning biznes modeli nimadan iborat? · **purpose**: Tarmoq foydasi arzon xariddan kelishini tushuntirish · **ts**: 21:27
+- **question**: Biznes model nuqtai nazaridan sizga nima kerak? Nimadan pul topaman? · **purpose**: Mehmonni detaldan (assortiment) asosiy savolga qaytarish · **ts**: 26:00
+- **question**: Mohiyatni tushuntira oldimmi? · **purpose**: Hikoyadan keyin tushunishni tekshirish · **ts**: 29:15
+- **question**: O'zingiz tomondan bir kichkina xulosa qilsangiz? · **purpose**: Mehmonning o'z xulosasini shakllantirish · **ts**: 29:15
+
+## Video 25 — "Бизнес Разбор" 7 - soni | O'rta segmentdan yuqori segmentga o'tish yo'llari | Alisher Isaev
+
+- **question**: Maqsad nima? Nimaga kerak sizga yuqori segmentga kirish? Nima sabab? · **purpose**: So'rov motivini aniqlash · **ts**: 02:19
+- **question**: 100% deb olsak bozorni, necha foizi o'rta, necha foizi premium? · **purpose**: Bozor tuzilmasini raqamda ko'rish · **ts**: 02:19
+- **question**: Hozirgi savdo tizimingizni tushuntiring: qanaqa qilib, kimga sotyapsiz, mijozlaringiz kim? · **purpose**: Kanal va mijozlarni xaritalash · **ts**: 03:38
+- **question**: Savdo bo'limimi, distribyutormi? Distribyutorlar kimga sotadi? · **purpose**: Zanjirni oxirigacha ochish · **ts**: 03:38
+- **question**: Foizda bo'lib bering — zapchast do'kon, avtoservis, byudjet necha foiz? · **purpose**: Kanal ulushlarini aniqlash · **ts**: 04:42
+- **question**: Zapchast do'konlar nimaga aynan sizning hozirgi mahsulotingizni oladi? · **purpose**: Hozirgi farqlanishni aniqlash (javob: faqat narx) · **ts**: 04:42
+- **question**: Necha pul sotasiz? Distribyutor qancha qo'yadi? Do'kon qancha qo'yadi? Konechniy narx necha pul? · **purpose**: Narx zanjirini hisoblash · **ts**: 05:43
+- **question**: Premium deganda faqat sintetika, to'g'rimi? To'rt litr oxirgi iste'molchiga necha pul yetib borishi kerak? · **purpose**: Segment va narx nuqtasini aniqlash · **ts**: 06:44
+- **question**: Kimdan konkurensiya qilmoqchisiz? Nomini ayting. Ular necha puldan sotilyapti? · **purpose**: Raqobatchilarni konkretlashtirish · **ts**: 06:44
+- **question**: Kix, GM, Totalni qanaqa qilib urmoqchisiz? Nom bormi? Nimangiz farq qiladi? · **purpose**: Brend farqlanishini sinash · **ts**: 09:11
+- **question**: Iste'molchi nimaga sizni tanlashi kerak — tavsiya qilsa ham, qilmasa ham? · **purpose**: Consumer marketing sababini izlash · **ts**: 10:20
+- **question**: Funksiya nuqtai nazaridan nimangiz zo'r? Emotsiya nuqtai nazaridan nimangiz zo'r? · **purpose**: Farqlanish o'lchovlarini ajratish · **ts**: 10:20
+- **question**: Nahotki Mannol, Total qila olmaydi? · **purpose**: Funksional da'voni sinash · **ts**: 10:20
+- **question**: Qaysi segmentga kiryapsiz — klassikka yoki ekstraga? Har biriga necha pul bilan? · **purpose**: Pozitsiyani aniqlashtirish · **ts**: 12:35
+- **question**: Siz premium qilmoqchimisiz yo narxni urmoqchimisiz? · **purpose**: Strategik ziddiyatni ko'rsatish · **ts**: 12:35
+- **question**: Nima hisobiga ustun kelmoqchisiz, narx bir xil degan taqdirda ham? Nimangiz zo'r? · **purpose**: Narxdan tashqari ustunlikni izlash · **ts**: 13:47
+- **question**: Nima hisobiga mahsulotingiz emotsional kuchliroq bo'ladi? · **purpose**: Emotsional farqlanishni topish · **ts**: 15:18
+- **question**: Kim reklamangiz yuzi bo'lsa, brendingiz emotsional kuchliroq bo'ladi? Brendga ishonch oshadimi? · **purpose**: Ishonch manbasini aniqlash · **ts**: 15:18
+- **question**: Bloggerlar kimga ta'sir o'tkazadi? Texnik tomondan kim moyingiz zo'rligini aytishi mumkin? · **purpose**: Auditoriya bo'yicha tavsiyachilarni ajratish · **ts**: 17:19
+- **question**: Qaysi usta? Eng zo'ri kim? Hamma taniydigan ustalar bormi? · **purpose**: Avtoritet tavsiyachini topish · **ts**: 17:19
+- **question**: Ustalar yo'nalishida nima qilishimiz mumkin? Yana? · **purpose**: Trade marketing g'oyalarini mehmondan chiqarish · **ts**: 19:26
+- **question**: Kechadan beri dunyodagi shunga o'xshagan konkurslarni o'rganib chiqdingizmi? · **purpose**: Uy vazifasini tekshirish · **ts**: 20:49
+- **question**: Ular chempionat egasimi yoki shunchaki sponsor? Siz sponsor bo'lmasdan egasi bo'la olasizmi? · **purpose**: Egalik strategiyasiga undash · **ts**: 20:49
+- **question**: Kim qatnashadi — ustalarmi yoki mashina egalari? Qanchalik mashhur bu musobaqa? · **purpose**: Tadbirning auditoriyasi va ko'lamini baholash · **ts**: 20:49
+- **question**: Moychilarning nima musobaqasi bor? Qanaqa nominatsiyalar? · **purpose**: Mehmonga mos format topish · **ts**: 23:55
+- **question**: Qiziqmi ularga? · **purpose**: Hamkor nuqtai nazaridan sinash · **ts**: 25:40
+- **question**: Moychilar uyushmasi bormi o'zi? Nimaga moychilar sizning uyushmangizga kirishi kerak? Asl katta sabab bering. · **purpose**: Fundamental qiymatni topish · **ts**: 27:23
+- **question**: Mijozni qayerdan olasiz? · **purpose**: Va'daning resursini tekshirish · **ts**: 27:23
+- **question**: CRM bormi hozir? Nimaga yo'q? · **purpose**: Hozirgi imkoniyatdan foydalanmaslik sababini ochish · **ts**: 29:29
+- **question**: Moyingizni quyayotgan mashinalar egalarining bazasi nimaga yo'q? · **purpose**: Oxirgi iste'molchi bazasi yo'qligini ko'rsatish · **ts**: 29:29
+- **question**: Hozir nimaga shu narsani qilmayapsiz? · **purpose**: To'siqni aniqlash · **ts**: 30:55
+- **question**: Hozir oxirgi iste'molchiga dostupga ega bo'la olasizmi? Bugungi kunda va qanday qilib? · **purpose**: Amalga oshirish yo'lini topish · **ts**: 30:55
+- **question**: Hozirgi bor mijozingizga qayta sotishga nima xalaqit beryapti? · **purpose**: Qayta sotuvni darhol boshlashga undash · **ts**: 34:29
+- **question**: Keyingi qadamimiz nima? · **purpose**: Mehmonni reja aytishga undash · **ts**: 38:47
+- **question**: Necha foiz odam moy almashtirishni esdan chiqaradi? · **purpose**: Eslatma xizmatining hajmini baholash · **ts**: 38:47
+- **question**: Do'konlarga ham yubora olasizmi? Do'konchilarni boshqara olasizmi, o'ynata olasizmi? · **purpose**: Baza kuchini ko'rsatish · **ts**: 40:46
+- **question**: Sizning biznesingiz nima ekan demak? Siz kimsiz, uzoq muddat biznes qilmoqchi bo'lsangiz? · **purpose**: O'zini qayta ta'riflatish · **ts**: 41:50
+- **question**: Nima bilan shug'ullanishingiz kerak har kuni? CRMga javob beradigan odam bormi? · **purpose**: Kundalik fokus va mas'ulni aniqlash · **ts**: 41:50
+- **question**: Qo'lingizda 100 ming mashina egasi bor — ularga yana nima qiymat bera olasiz? · **purpose**: 2-etap — ekosistema fikrlash · **ts**: 43:24
+- **question**: Lichniy avto-usta bo'lish qiziqmi sizga? · **purpose**: Bonus o'rniga xizmat g'oyasini sinash · **ts**: 44:40
+- **question**: Moy ichidan ekosistema egasiga aylanishingiz mumkinmi? · **purpose**: Uzoq muddatli vizyon · **ts**: 45:50
+- **question**: Hamma narsa qo'lingizda — eng arzon qilasizmi? Nima qilasiz? · **purpose**: Narx emas, qiymat orqali boshqarishni tushuntirish · **ts**: 45:50
+
+## Video 26 — IT-kompaniya «razbor» | Qanday qilib biznesda «risk» va xarajatlarni kamaytirish? | Razbor 6-soni
+
+- **question**: Nima konkret qilasizlar? O'zingiz yozasizmi yoki integratsiya qilasizmi? · **purpose**: Biznesning aniq turini aniqlash · **ts**: 01:00
+- **question**: Ya'ni men programma xohlayman, sizga kelaman, menga yasab berasiz — to'g'ri tushundimmi? · **purpose**: Biznesni bir jumlaga keltirib tasdiqlatish · **ts**: 01:00
+- **question**: Zapros nimada? Nima qiynayapti? · **purpose**: Mehmonning so'rovini olish · **ts**: 01:00
+- **question**: Siz EPAMning kichkina variantisiz-da? Nimaga ular sizdagidek risk ko'rmayapti? · **purpose**: Yirik benchmark orqali biznes modeldagi farqni ochish · **ts**: 04:00
+- **question**: O'zingizga o'xshagan kompaniyalar bilan hamkorlik qilasizmi? Bir-biringizni to'ldirib turasizmi? Marketpleys qilsa bo'ladimi? · **purpose**: Bo'sh resurslarni almashish orqali riskni kamaytirish imkonini izlash · **ts**: 05:01
+- **question**: Sizning vazifangiz aslida nima bo'lyapti? · **purpose**: Egasining haqiqiy rolini (sotuvchi/PM) aniqlash · **ts**: 06:01
+- **question**: Necha foiz daromad texpodderjkada? Texpodderjkaga pul olasizmi? · **purpose**: Rekurrent daromad ulushini aniqlash · **ts**: 08:02
+- **question**: Siz bitta sexga bog'liq bo'lib qolasizmi yoki istalgan joyda Zara logotipini ishlab chiqaraverasizmi? · **purpose**: Ishlab chiqarishga (dasturchilarga) bog'liqlikni ko'rsatish · **ts**: 08:02
+- **question**: Muammo qayerda? (zakaz → dasturchi → keyingi zakaz yo'q) · **purpose**: Riskning aniq nuqtasini topish · **ts**: 15:05
+- **question**: Biz nimada mutaxassismiz? Kuchli tomonimiz nima? · **purpose**: Fokusni kuchli tomonga qaratish · **ts**: 16:05
+- **question**: Yangi mijozlar nol bo'lsa, hozirgi org struktura bilan texpodderjka daromadi hisobiga plyusda ishlay olasizmi? · **purpose**: Biznes modelning inqirozga chidamliligini tekshirish · **ts**: 18:05
+- **question**: Dokumentatsiya qilasizlarmi? Kodni o'qishni bilasizmi? Arxitektura kimning qo'lida? · **purpose**: Egasining kod ustidan nazoratini tekshirish · **ts**: 20:06
+- **question**: Kod bo'yicha mutaxassis bo'lsangiz, hozirgi risklaringiz kamayadimi? · **purpose**: Ildiz sababni mehmonga tasdiqlatish · **ts**: 23:06
+- **question**: Sizlar haqingizda ma'lumot kimda — sotuvchidami yoki mendami? · **purpose**: Ma'lumot egaligi orqali bog'liqlik riskini ko'rsatish · **ts**: 23:06
+- **question**: Siz programmistga bog'liqmisiz, programmistni boshqaryapsizmi yoki kodini boshqaryapsizmi? · **purpose**: Boshqaruv darajasini aniqlash · **ts**: 25:07
+- **question**: Nechta sotuvchingiz bor? · **purpose**: Sotuv muammosining resurs sababini ochish · **ts**: 28:08
+- **question**: Siz kelishib oling: siz startapmisiz yoki birovga yozib beruvchimisiz? · **purpose**: Fokus yo'qligini (shpagat) ochish · **ts**: 28:08
+- **question**: Birinchi qadam nima? Hozirgi holatda? · **purpose**: Mehmonning o'zi reja tuzishga majburlash · **ts**: 42:13
+- **question**: Menga kerak bo'lgan B2B sotuvchi hozir qayerda, qaysi kompaniyada ishlayapti? · **purpose**: Yollash manbasini aniqlash · **ts**: 42:13
+- **question**: Nima uchun o'sha orzu qilgan sotuvchi sizda ishlashi kerak? · **purpose**: Nomzod uchun qiymat taklifini (EVP) tayyorlash · **ts**: 44:19
+- **question**: No.1 kompaniyadan ketib startaplarga ketganlar ko'pmi? Nimaga ketishadi deb o'ylaysiz? · **purpose**: Nomzodning motivatsiyasini (zerikish, challenge) topish · **ts**: 44:19
+- **question**: Bu daromad gapmi yoki xarajat gapmi? · **purpose**: Fikrlash turini tekshirish va salbiyni ijobiyga o'girish · **ts**: 49:20
+- **question**: Nima qilsam u menga keladi? Nima qilsakki qaysidir ko'rinishda hamkorlikni davom ettirsak bo'ladi? · **purpose**: To'siqni imkoniyatga aylantirish · **ts**: 50:20
+- **question**: Kichkina o'zingiz rezyume qiling. Nima oldingiz suhbatimizdan? · **purpose**: Mehmonning o'zi xulosa qilishi va ichki qabul qilishi · **ts**: 53:21
+
+## Video 27 — Qanday qilib lokatsiya omilini yutish va lidlarni xaridorlarga aylantirish? | "Biznes Разбор" 5-soni
+
+- **question**: G'ijduvonmi, Buxoromi? · **purpose**: Joylashuvni aniqlashtirish · **ts**: 01:00
+- **question**: O'sha taxtaxonalar lokatsiyasining nimasi bor? Ahamiyati bormi? · **purpose**: Mehmonning o'zi lokatsiya ta'sirini baholashi · **ts**: 03:01
+- **question**: Sizda muammo — mijoz olib kelish, to'g'rimi? · **purpose**: Muammoni savdo bosqichiga joylashtirish · **ts**: 05:02
+- **question**: Makro Korzinkani sindirishi mumkinmi? Nimaga yo'q? Makro ochmoqchi bo'lsa qayerdan ochishi kerak edi? · **purpose**: Keys orqali lokatsiya kuchini zalga his qildirish · **ts**: 07:02
+- **question**: Bunga qarshi instrument bormi? · **purpose**: Yechim borligiga ishora qilib, keyingi bosqichga o'tish · **ts**: 08:02
+- **question**: Bizda muammo qayerda — lid, konversiya yoki qayta sotuv? · **purpose**: Savdo bosqichi bo'yicha diagnostika · **ts**: 08:02
+- **question**: Bular o'zlari kelmayapti — siz lidga borishingiz mumkinmi? · **purpose**: Faol modelga o'tish g'oyasini ochish ('minus savol') · **ts**: 08:02
+- **question**: Bular kim? Prorablarmi, ustalarmi? Usta qayerdan — Navoiydanmi, G'ijduvonnikimi? · **purpose**: Asosiy xaridor segmentini aniqlash · **ts**: 09:04
+- **question**: G'ijduvonda nechta usta bor? Nechtasi bilan ishlaysiz? · **purpose**: Bozor hajmi va hozirgi ulushni sanash · **ts**: 09:04
+- **question**: 60 dan 160 ga olib chiqsak, necha barobar savdo oshadi? Qiziqmi shu raqam? · **purpose**: O'sish potensialini his qildirish · **ts**: 10:05
+- **question**: Bu 100 tani qanaqa qilib o'zimizga bog'lab qo'ya olamiz? · **purpose**: Asosiy vazifani aniq formulirovka qilish · **ts**: 10:05
+- **question**: Tasavvur qilaylik, hammanglar ustasizlar — nima qilsak doim sizlar bilan ishlay olamiz, faqat mendan olasizlar? · **purpose**: Zalni mijoz roliga qo'yib, uning ehtiyojlarini chiqarish · **ts**: 13:05
+- **question**: Sizlarga bular (mutaxassislar) bilan suhbat qilish qiziqmi? · **purpose**: Klub qiymatini mijoz nuqtai nazaridan tekshirish · **ts**: 15:06
+- **question**: Qurilish moli olishga kelganda yo'lda to'xtab yettita tochkadan olasizlarmi yoki sal uyalib bu yoqqa borasizlarmi? · **purpose**: Munosabat sodiqlikka qanday ta'sir qilishini zalning o'zi tan olishi · **ts**: 16:06
+- **question**: Necha pul? Bitta ziyofatda kishi boshiga necha pul tushadi? · **purpose**: Xarajat e'tirozini raqamga aylantirish · **ts**: 17:06
+- **question**: Bular necha pullik savda qiladi bir oyda? Bitta usta oyiga necha pullik mahsulot oladi? · **purpose**: Xarajatni mijoz oboroti bilan solishtirish · **ts**: 17:06
+- **question**: To'yda nechta odam keladi? · **purpose**: 160 kishi bilan munosabat imkonsiz degan e'tirozni analogiya bilan yechish · **ts**: 18:07
+- **question**: Ustaga nima sotyapsiz? Yana nima berishingiz mumkin? Unga klient, zakaz olib kelib berishingiz mumkinmi? · **purpose**: Mijoz atrofidagi ekosistema elementlarini topish · **ts**: 20:08
+- **question**: Bu biznes modelda lokatsiya rol o'ynaydimi? · **purpose**: Yangi model lokatsiya muammosini yo'qotishini ko'rsatish · **ts**: 22:09
+- **question**: Yana nimada qiynalyapsizlar? · **purpose**: Ustaning qo'shimcha og'riqlarini (ruxsatnoma, yuk tushirish) topish · **ts**: 23:10
+- **question**: Nima xohlayapti mening mijozim? · **purpose**: Mijoz ehtiyojiga samimiy quloq solish · **ts**: 26:11
+
+## Video 28 — Xodim yollash, oliy maqsad, sodiq va kuchli jamoa qurish, HR | "Biznes Разбор" 4-soni
+
+- **question**: Zapros qanaqa? Qayerda nima bezovta qilyapti biznesda? · **purpose**: So'rovni aniqlash · **ts**: 04:21
+- **question**: Ya'ni mijoz ko'proq xohlaysiz? · **purpose**: Taxminiy so'rovni tekshirish (sotuvmi yoki tizimmi) · **ts**: 04:21
+- **question**: Qayta sotuvmi? Yoki kelgan mijoz xizmatdan foydalanmasdan qaytib chiqib ketyaptimi? · **purpose**: 'Mijozni olib qolish yo'q' muammosini turga ajratish · **ts**: 05:21
+- **question**: Taqsimlash deganda pul yetkaza olmayapsizmi? Ya'ni kam pul to'layapsizmi? · **purpose**: Vrachlar bilan pul masalasining mohiyatini ochish (defitsit/kuch muvozanati) · **ts**: 06:54
+- **question**: Nimadan boshlaymiz? · **purpose**: Mehmonga ustuvorlikni o'zi tanlatish · **ts**: 06:54
+- **question**: Tizimlashtirish deganda nimani tushunasiz? Nima muammo kelyaptiki 'tizimim yo'q' deyapsiz? · **purpose**: Mavhum so'rovni konkretlashtirish · **ts**: 07:55
+- **question**: Bir orgstruktura chizaylik. Tepada siz, to'g'rimi? Keyin kim bor? · **purpose**: Boshqaruv tuzilmasi, bo'ysunish va bo'g'inlarni ko'rish · **ts**: 07:55
+- **question**: Kassir rahbar qilmoqchisiz? · **purpose**: Rahbar tanlash mantiqini so'roq qilish · **ts**: 07:55
+- **question**: Vrachlar bormi o'zi? Nega oxirida gapiryapsiz? Ular kimga bo'ysunadi? · **purpose**: Asosiy xodimlar va boshqaruv bo'shlig'ini aniqlash · **ts**: 10:15
+- **question**: Muammo faqat vrachlardami yoki boshqa xodimlarda ham bormi? · **purpose**: Muammoli bo'g'inni lokalizatsiya qilish · **ts**: 10:15
+- **question**: Mana biz hammamiz registratura xodimimiz. Bizdan nima kutyapsiz? Konkret vazifa nima? · **purpose**: Lavozim kutilmalarini konkret funksiyalarga aylantirish · **ts**: 11:19
+- **question**: Qanaqa o'lchaymiz uni — chaqqonmi yo nima degani? · **purpose**: Kutilmani o'lchanadigan qilish · **ts**: 11:19
+- **question**: Qanaqa oylik to'laysiz? Menga necha pul to'laysiz? Yana nima berasiz? · **purpose**: Haq to'lash tizimini kutilma bilan solishtirish · **ts**: 12:27
+- **question**: Muammo nimada ko'ryapsiz hozir o'zingiz? · **purpose**: Mehmonni o'zi xulosa chiqarishga undash · **ts**: 13:46
+- **question**: Mijoz xursand bo'ldimi — qayerdan bilamiz? Nima o'lchov instrumentlar bor? · **purpose**: Natija o'lchovini topish · **ts**: 14:58
+- **question**: Foizni pul olib kelganimdan berasizlarmi yoki chiqarib yuborgan moldan? · **purpose**: Nasiya muammosi KPI'ga kiritilganini tekshirish · **ts**: 20:50
+- **question**: Qayerda o'qityapsiz? Bular o'rganishni xohlamayaptimi yoki sizlar o'rgata olmayapsizlarmi? · **purpose**: Tajriba yetishmasligi sababini ajratish · **ts**: 24:06
+- **question**: Siz to'g'ri ishchi ololmayapsizmi yoki to'g'ri ishchi olsangiz ham ketib qolyaptimi? · **purpose**: Jalb qilish va ushlab qolish muammolarini ajratish · **ts**: 24:06
+- **question**: Nimaga sizga yaxshi xodim kelmayapti? Oylikdamikan masala? · **purpose**: Jalb qilish to'sig'ini topish · **ts**: 25:46
+- **question**: Biz shahardagi eng zo'r hamshiramiz, ishlab turgan joyimiz bor. Nimaga sizga borishimiz kerak? · **purpose**: Ish beruvchi qiymat taklifi bor-yo'qligini tekshirish · **ts**: 25:46
+- **question**: Bolnitsa necha pul to'laydi? Siz necha pul? · **purpose**: Oylik farqi motivatsiya uchun yetarlimi — tekshirish · **ts**: 26:46
+- **question**: Qanaqa oliy maqsad? Gapirib bering. · **purpose**: Pul bo'lmagan jalb qilish omilini topish · **ts**: 26:46
+- **question**: O'sha zo'r hamshira hozir qayerda ishlayapti? Ismini bilasizmi? U yerda nimasi yoqmayapti? · **purpose**: Nomzodni konkret bilish va uning og'rig'ini tushunish · **ts**: 29:10
+- **question**: O'sha hamshira eshigingizni taqillatib o'zi kelishi uchun nima bera olasiz? · **purpose**: Taklif qudratini baholash · **ts**: 30:15
+- **question**: Brendingiz kuchlimi? · **purpose**: Ish beruvchi brendini tekshirish · **ts**: 31:27
+- **question**: Men hamshira bo'lib kirsam, keyin-chi? 40 yoshda kim bo'laman? 50 yoshda kim bo'laman? · **purpose**: Xodimga ko'rsatiladigan karyera yo'li bor-yo'qligini tekshirish · **ts**: 37:53
+- **question**: Klinikaning kelajagi nima? 5 yildan keyin, 10 yildan keyin nima bo'ladi? · **purpose**: Rahbarda korxona strategiyasi/vizyoni bor-yo'qligini ochish (ildiz muammo) · **ts**: 38:53
+- **question**: 160 odamingizdan nechtasi 0.8? · **purpose**: Jamoa sifatini raqamga aylantirish · **ts**: 46:19
+- **question**: Sohangizda eng krutoy rahbar kim? Qaysi korxonada ishlayapti? O'zbekistonda emas, dunyoda. · **purpose**: Benchmark va olib kelish mumkin bo'lgan chempionni topish · **ts**: 49:52
+- **question**: O'zingiz yurganingizga nisbatan u odamlar tezroq yuguradimi? · **purpose**: Ekspertiza olib kelish qiymatini anglatish · **ts**: 51:13
+- **question**: Xitoyda bo'lganmisiz? Nechida ertalab ishga chiqishadi? · **purpose**: 'Ishchilar yalqov, iloji yo'q' degan ishonchni sindirish · **ts**: 53:38
+- **question**: Siz 30 ta qilgansiz. Lekin 100 ta qilganmisiz? Qaysi biri tezroq va arzonroq? · **purpose**: Ichki o'stirish vs tajribali menejer olib kelishni tanlatish · **ts**: 55:43
+- **question**: Siz o'sha CEO bo'lsangiz, rozi bo'lasizmi birga ishlashga? · **purpose**: Zalni mahalliy menejer o'rniga qo'yib paradoksni yechish · **ts**: 56:52
+- **question**: 30 yildan keyin qayerda bo'lmoqchisiz? · **purpose**: Uzoq muddatli vizyonni so'rash · **ts**: 1:00:01
+- **question**: Nechta gapirmayotgan bola keldi, nechtasini gapirtirdingiz? · **purpose**: Oliy maqsad natijasi o'lchanayotganini tekshirish · **ts**: 1:02:34
+- **question**: Kim faqat nafas olish, yeb-ichish uchun yashaydi? Qo'l ko'taringlar. · **purpose**: Pul — maqsad emas, ehtiyoj ekanini zalga his qildirish · **ts**: 1:03:57
+
+## Video 29 — Logistika sohasidagi inqirozi | Xojakbar Gulyamov | "Biznes Razbor" 2-soni
+
+- **question**: Zapros nimada? · **purpose**: So'rovni bir jumlaga tushirish (savdoni oshirish) · **ts**: 02:32
+- **question**: Savdo tushishi sizga nima aloqasi bor? · **purpose**: Umumiy bozor tushishi bilan o'z savdosini ajratishga tayyorlash · **ts**: 02:32
+- **question**: Logistika bozori necha pulli bozor? Yoki nechta zakaz bor bir yilda? · **purpose**: Bozor hajmini raqamga aylantirish · **ts**: 02:32
+- **question**: Bir trillion bozor bo'lsa, siz qancha qilasiz? Bir yilda, bir oyda? · **purpose**: Ulushning kichikligini ko'rsatish — bozor cheklov emas · **ts**: 04:07
+- **question**: Nima, siz bozor bilan birga tushib ketyapsizmi? · **purpose**: Bahonani ochish · **ts**: 04:07
+- **question**: Shu formulaning o'zida sizda savdoni oshirish yo'li bormi? Nima hisobiga oshirishingiz mumkin? · **purpose**: Mehmonni o'zi mijoz soni o'zgaruvchisini topishga undash · **ts**: 04:07
+- **question**: Nechta odam mijoz topish bilan ishlaydi? · **purpose**: Sotuv quvvatini aniqlash · **ts**: 05:32
+- **question**: Siz faqat ekspeditsiya qilasizmi yoki qidirib ham topib berasizmi? Yuz foizdan qanchasini? · **purpose**: Qiymat taklifini va biznes modelni foizda aniqlash · **ts**: 05:32
+- **question**: Xitoyda nechta odam ishlaydi? Nima bilan shug'ullanishadi? · **purpose**: Front/back office taqsimotini ochish · **ts**: 07:09
+- **question**: Nimaga Xitoyda savdo menejerlar yo'q? · **purpose**: Sotuv faqat O'zbekistonga qaratilganini ko'rsatish · **ts**: 07:09
+- **question**: Nimaga Xitoydan turib aynan O'zbekistonga sotasiz? (xitoylik ko'zi bilan) · **purpose**: Geografik odatni strategik tanlovdan ajratish · **ts**: 07:09
+- **question**: Dunyo iqtisodiyoti necha pul? Amerika? Xitoy? O'zbekiston? · **purpose**: O'zbekiston bozori ulushini (0,08%) ko'rsatib, global bozorga ko'z ochish · **ts**: 08:46
+- **question**: Sotuv menejerlaringiz Amerikada bo'lganda, Amerikadan mijoz topib kelarmidi? · **purpose**: Mijoz geografiyasi sotuvchilar joylashuviga bog'liqligini ochish · **ts**: 10:14
+- **question**: Nimaga bu masalani (boshqa davlatlarga sotishni) o'ylab ko'rmagansiz? · **purpose**: Cheklovning sababini (odat) topish · **ts**: 11:32
+- **question**: Ikkita sotuv menejeringizning ishini tushuntiring, qanaqa qilib klientlar bilan ishlaydi? · **purpose**: Sotuv jarayonini ko'rish · **ts**: 11:32
+- **question**: Abu Saxiyda nechta import qiladigan odam bor? Siz nechtasi bilan ishlaysiz? · **purpose**: Bozordagi penetratsiyani (10%) aniqlash · **ts**: 12:41
+- **question**: Qolgan 90% bilan nega ishlamaysiz? · **purpose**: O'sish zahirasini va sababini ochish · **ts**: 12:41
+- **question**: Men sotuv menejeringizman — qanaqa qilib oylik olaman? Fiks qancha? Bonus nimadan? · **purpose**: Motivatsiya tizimini rol o'yini orqali ochish · **ts**: 13:43
+- **question**: Reja yo'qmi menda? Nimaga? · **purpose**: Rejasizlik sababini aniqlash · **ts**: 13:43
+- **question**: Abu Saxiyda nechta aktiv mijozingiz bor? Jami (obshiy) nechta? · **purpose**: Aktiv baza va umumiy baza o'rtasidagi tafovutni ko'rsatish · **ts**: 21:35
+- **question**: Savdoni eski darajada ushlash uchun nechta aktiv mijoz bo'lishi kerak? · **purpose**: Maqsadni raqamga aylantirish (13 → 26) · **ts**: 22:54
+- **question**: Nimaga qolganlar bilan ishlay olmayapsiz? Nima deyishyapti? Kirib ko'rdingizmi o'zi? · **purpose**: Mijozga borilmayotganini ochish · **ts**: 22:54
+- **question**: Nima qilsak o'sha 487 tani topa olamiz? Yo'li bormi? · **purpose**: Tizimli yechimga o'tish · **ts**: 25:06
+- **question**: +13 mijoz qo'shish uchun kamida nechtasini ko'rishim kerak? · **purpose**: Voronkani teskari hisoblashni o'rgatish · **ts**: 26:21
+- **question**: Qanday nazorat qilasiz? Uchrashuvlar bo'lyaptimi? Ko'ra olasizmi? Talab qilasizmi? · **purpose**: Vosita bor-yo'q va intizom bor-yo'qligini ajratish · **ts**: 26:21
+- **question**: Qaysi menejeringizga nima deysiz — 110% gami, 70% gami? · **purpose**: Faqat umumiy foizga qarash xatosini ochish · **ts**: 32:24
+- **question**: Bu tizimni tuzish problemami? Qanchalik effekt berishi mumkin? · **purpose**: Mehmonni o'zi yechimning qiymatini tan olishga undash · **ts**: 34:07
+- **question**: Xuddi shu narsani Xitoyga — front office'ni — qo'ya olasizmi? · **purpose**: Tizimni globalga ko'chirish · **ts**: 34:07
+- **question**: Xitoydagi showroomga nechta odam kiradi? Aynan sizga qancha? Nima qilsa kiradi? · **purpose**: Mavjud trafikdan mijoz oqimini hisoblash · **ts**: 35:48
+- **question**: Nechta davlat bilan ish yo'lga qo'yishingiz mumkin? Nimaga faqat 3–4? Nimaga 200 ta bilan emas? · **purpose**: O'z-o'zini cheklashni ochish · **ts**: 37:01
+- **question**: Eng katta kompaniya logistika bo'yicha kim sizning sohangizda — Xitoydan dunyoga? · **purpose**: Benchmark bilimini tekshirish · **ts**: 38:54
+- **question**: O'sha kompaniya bilan nima qilgan bo'lardingiz? Nima qilyapti, qayerdan klient topyapti? Nimaga ularga shuncha odam kelyapti? · **purpose**: Yetakchining arxitekturasini o'rganishga undash · **ts**: 40:38
+- **question**: Xullas, nima xulosa? Tushungan, olgan narsangizni aytsangiz. · **purpose**: Mehmonning o'zi xulosa chiqarishi · **ts**: 41:52
+- **question**: Sizning mijozingiz kim? Unga nima beryapsiz? Bu mijozingizga yana nima qiziq? · **purpose**: Mijoz atrofidagi ekosistema imkoniyatlarini topish · **ts**: 49:39
+- **question**: Servis kimniki bo'ladi? · **purpose**: Hamkorlik/frontman modeliga olib kelish · **ts**: 58:22
+
+## Video 30 — Alisher Isaev bilan "Biznes Razbor" 1-soni
+
+- **question**: Zapros nimada? Nima xatingiz kasal, nimaga shifo izlayapsiz? · **purpose**: Mehmonning asosiy og'riq nuqtasini o'z so'zlari bilan aniqlash · **ts**: 10:19
+- **question**: Taxminan masshtab: yiliga 1–3 mln, 5–10 mln, 10–20 mln dollar atrofidamisiz? · **purpose**: Aylanmani komfort diapazonda bilish · **ts**: 08:52
+- **question**: Nechta xodim? Ularning nechtasi sotuvda? · **purpose**: Sotuv resursini baholash · **ts**: 13:20
+- **question**: Sotuv qanday amalga oshiriladi — o'z distribyutsiyangiz bormi yoki distribyutorlargami? · **purpose**: Savdo strukturasi va kanallarni xaritalash · **ts**: 10:19
+- **question**: Toshkentda jami qancha do'kon/sex bor (OKB) va siz nechtasi bilan ishlaysiz (AKB)? Aniq raqam bormi? · **purpose**: Bozor qamrovi va o'sish salohiyatini raqamda ko'rish · **ts**: 15:45
+- **question**: Suv/marojniy uchun necha metr, mebel uchun necha km yurishga tayyorsiz? Margarin uchun-chi? · **purpose**: Mahsulot tabiatidan distribyutsiya kengligi zarurligini mehmonning o'ziga anglatish · **ts**: 17:01
+- **question**: Nechta SKU? Har do'konda nechtasi bor? · **purpose**: Assortiment qamrovi va egasining daladan xabardorligini tekshirish · **ts**: 26:13
+- **question**: Distribyutsiyaga oylik reja qo'yganmisiz? Necha foiz bajariladi? · **purpose**: Reja tizimi va bajarilish darajasini aniqlash · **ts**: 27:24
+- **question**: Reja noto'g'ri qo'yilganmi yoki sotuvchilar yaxshi ishlamayaptimi? · **purpose**: Muammo manbasini (reja vs ijro) ajratish · **ts**: 28:32
+- **question**: Do'konlarga/sexlarga ham reja qo'yyapsizmi? · **purpose**: Boshqaruv chuqurligi qaysi darajada tugashini ochish · **ts**: 29:37
+- **question**: Viloyat distribyutorining savdo agentlari rejasiga chuqurlashganmisiz? · **purpose**: Distribyutor ustidan nazorat bor-yo'qligini tekshirish · **ts**: 32:47
+- **question**: Bitta sex konkurentingizdan ham olishi mumkinmi? · **purpose**: Zakaz tushishi — konkurentga o'tish signali ekanini ko'rsatish · **ts**: 35:48
+- **question**: Kech payt agent bilan suhbat qanday bo'ladi? · **purpose**: Kundalik boshqaruv jarayonining sifatini ochish · **ts**: 39:00
+- **question**: Buni kim qiladi? Qila olaman degan odamni olasizmi yoki qilganman deganini? · **purpose**: Ijrochi tanlash mezonini belgilash · **ts**: 45:46
+- **question**: Bir soatdan nima oldingiz — qisqacha xulosangizni ayting. · **purpose**: Mehmonni o'z xulosasini shakllantirishga majburlash · **ts**: 48:23
+- **question**: Oylik savdoga nisbatan nasiya qancha? · **purpose**: Nasiya xavfini nisbat bilan baholash · **ts**: 53:45
+- **question**: Siz ishlab chiqaruvchimisiz yoki optovikmisiz? · **purpose**: Biznes modelini aniqlash · **ts**: 53:45
+- **question**: Operatoringizning KPI'si nima? Men sizning operatoringizman — fiks qancha, bonus qanday formula bilan? · **purpose**: Motivatsiya tizimi natijaga bog'langanmi — tekshirish · **ts**: 59:08
+- **question**: Shunga qarab to'lashingiz formulasi qanaqa? Yoqqan bolaga ko'proq berasizmi? · **purpose**: Bonusning subyektivligini fosh qilish · **ts**: 1:02:59
+- **question**: Operator xohladi, lekin bilmasa — nima ilm berishimiz kerak? · **purpose**: Ikkinchi sabab (bilim) bo'yicha yechim izlash · **ts**: 1:06:38
+- **question**: Siz bankmisiz yo optimchimisiz? · **purpose**: Mehmonga o'z biznes modelining asl mohiyatini tan oldirish · **ts**: 1:08:17
+- **question**: Bir haftada nechta sotilibdi? Nechta zakaz qilamiz? · **purpose**: Qoldiq orqali buyurtma mantiqini mehmonning o'zi hisoblashi orqali ko'rsatish · **ts**: 1:10:05
+- **question**: Ikki narsani hal qilsangiz — apteka omborini nazorat va to'g'ri KPI — nasiya keskin kamayishiga ishonasizmi? · **purpose**: Yechimga ishonch va majburiyat olish · **ts**: 1:18:50
+- **question**: Tetra Pak'ka biz nechta mahsulot ishlab chiqarganimiz nimaga kerak edi? · **purpose**: Aqlli sotish mantiqini mehmonning o'zi topishi · **ts**: 1:22:39
+- **question**: Sizni kim taniydi? Qaysi kruglarda, qaysi klublardasiz? Nimaga sizga ishonib pul tikishim kerak? · **purpose**: Pul jalb qila olmaslik sababi — shaxsiy ishonch kapitali yo'qligini ochish · **ts**: 1:34:08
+- **question**: Kimga sotasiz? Olish-olmaslikni kim hal qiladi — uy egasimi yoki prorabmi? · **purpose**: Qaror qiluvchi mijozni aniqlash · **ts**: 1:41:02
+- **question**: Siz 100 so'm ko'rmoqchi bo'lib 100 ko'rdingizmi, 50 mi, 200 mi? · **purpose**: Bonusni rejaga bog'lash zarurligini ko'rsatish · **ts**: 1:50:24
+- **question**: Distribyutorda puli bor-u bergisi kelmayaptimi yoki puli yo'qmi? · **purpose**: Nasiya strategiyasini tanlash uchun to'g'ri baho · **ts**: 2:02:50
+- **question**: Butkangizga odam necha km'dan keladi? Reklama orqali nima qilmoqchisiz? · **purpose**: Reklama kanali va biznes radiusi mosligini tekshirish · **ts**: 2:19:44
+- **question**: Men haqimdagi ma'lumotni qayergadir joylaysizmi? CRM qo'yganmisiz? 10 ming odam bo'lib ketsa-chi? · **purpose**: Qayta sotish infratuzilmasi yo'qligini ochish · **ts**: 2:20:57
